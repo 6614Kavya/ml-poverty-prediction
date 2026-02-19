@@ -1,0 +1,1001 @@
+Household_ID,District,Household_Size,Head_Age,Education_Level,Employment_Status,Monthly_Income_LKR,Food_Expenditure_LKR,NonFood_Expenditure_LKR,Housing_Type,Electricity_Access,Water_Access,Owns_Vehicle,Owns_Computer
+1,Kurunegala,1,31,Primary,Self-employed,155431,16848,77573,Permanent,Yes,No,Yes,No
+2,Kandy,7,22,Secondary,Self-employed,144048,86672,98665,Permanent,No,Yes,Yes,Yes
+3,Anuradhapura,4,64,No Schooling,Self-employed,248269,74125,112803,Temporary,No,No,No,Yes
+4,Galle,3,37,No Schooling,Self-employed,57056,69602,18386,Semi-permanent,Yes,Yes,Yes,No
+5,Kurunegala,4,59,Advanced Level,Self-employed,66831,80045,59460,Temporary,Yes,Yes,No,No
+6,Batticaloa,4,40,No Schooling,Self-employed,74191,50222,11221,Permanent,Yes,No,Yes,Yes
+7,Kalutara,4,34,Advanced Level,Self-employed,136948,57223,28474,Temporary,No,Yes,Yes,Yes
+8,Kurunegala,4,52,Advanced Level,Self-employed,179344,73333,111073,Semi-permanent,No,No,No,No
+9,Anuradhapura,5,54,Advanced Level,Self-employed,123117,60732,117660,Temporary,No,Yes,No,Yes
+10,Galle,5,45,No Schooling,Unemployed,29671,57420,26045,Permanent,No,No,No,Yes
+11,Kandy,7,27,Advanced Level,Private Sector,42048,83504,96319,Permanent,Yes,Yes,No,Yes
+12,Anuradhapura,2,55,No Schooling,Self-employed,222346,10462,110693,Temporary,Yes,Yes,Yes,No
+13,Anuradhapura,1,67,Advanced Level,Private Sector,40963,17460,9922,Semi-permanent,Yes,No,No,Yes
+14,Kalutara,4,49,Degree,Self-employed,58954,17275,116943,Temporary,Yes,Yes,Yes,Yes
+15,Matara,7,42,Advanced Level,Self-employed,218381,21269,27706,Semi-permanent,No,No,Yes,No
+16,Galle,2,61,Primary,Unemployed,248192,73942,47771,Semi-permanent,No,Yes,Yes,No
+17,Gampaha,1,63,Advanced Level,Government,110430,80920,57335,Temporary,Yes,Yes,Yes,No
+18,Anuradhapura,6,33,Secondary,Government,15717,30553,103015,Semi-permanent,Yes,Yes,Yes,Yes
+19,Matara,3,33,Advanced Level,Unemployed,26676,32366,57949,Permanent,Yes,No,Yes,No
+20,Gampaha,5,21,Primary,Private Sector,150506,52036,75714,Temporary,Yes,No,No,Yes
+21,Galle,6,56,Primary,Government,195882,25369,100558,Semi-permanent,Yes,No,Yes,No
+22,Colombo,1,24,No Schooling,Unemployed,249433,19795,20240,Permanent,No,No,Yes,Yes
+23,Batticaloa,6,57,Degree,Unemployed,133696,78021,96756,Temporary,No,No,Yes,No
+24,Matara,3,64,Advanced Level,Government,240708,76154,107272,Permanent,Yes,Yes,No,Yes
+25,Jaffna,7,60,No Schooling,Private Sector,145830,38143,7716,Permanent,Yes,Yes,No,Yes
+26,Colombo,1,66,Degree,Unemployed,19994,37425,21574,Permanent,Yes,No,Yes,No
+27,Batticaloa,6,33,Advanced Level,Self-employed,19234,83139,116815,Semi-permanent,No,Yes,No,No
+28,Kalutara,5,58,Secondary,Private Sector,84300,13368,88255,Temporary,No,Yes,Yes,Yes
+29,Kurunegala,5,44,Advanced Level,Private Sector,58949,12621,78717,Temporary,No,Yes,No,No
+30,Kandy,2,39,Primary,Government,52405,66829,116299,Semi-permanent,Yes,Yes,Yes,Yes
+31,Jaffna,6,21,Primary,Government,49872,68294,49066,Temporary,No,No,No,No
+32,Kalutara,4,58,Secondary,Self-employed,57215,22719,66826,Permanent,Yes,Yes,No,No
+33,Galle,6,25,No Schooling,Unemployed,38185,37227,25213,Temporary,No,No,No,Yes
+34,Kalutara,7,36,Degree,Government,189514,15566,76916,Semi-permanent,No,No,Yes,No
+35,Kurunegala,1,44,Advanced Level,Government,197831,20306,71151,Permanent,No,Yes,Yes,No
+36,Galle,1,47,Primary,Private Sector,56153,61822,55906,Semi-permanent,Yes,No,Yes,Yes
+37,Jaffna,7,21,No Schooling,Government,92535,32042,5463,Permanent,Yes,Yes,No,Yes
+38,Kurunegala,6,54,Secondary,Government,248095,23086,36973,Permanent,No,Yes,No,No
+39,Gampaha,7,56,Primary,Government,148653,25387,79694,Temporary,Yes,Yes,Yes,Yes
+40,Kandy,3,24,Secondary,Government,66717,35042,25651,Permanent,Yes,No,No,No
+41,Jaffna,7,20,Advanced Level,Private Sector,17763,59618,73694,Semi-permanent,Yes,No,Yes,No
+42,Gampaha,5,59,Degree,Self-employed,107910,26323,25008,Temporary,Yes,No,Yes,Yes
+43,Batticaloa,7,31,Primary,Self-employed,70480,26019,116738,Semi-permanent,Yes,Yes,Yes,Yes
+44,Jaffna,1,55,Primary,Unemployed,184831,83426,75474,Permanent,Yes,Yes,Yes,Yes
+45,Batticaloa,5,64,Advanced Level,Government,222139,48863,43185,Semi-permanent,Yes,Yes,No,Yes
+46,Galle,1,42,No Schooling,Private Sector,133094,18283,92924,Semi-permanent,No,No,No,Yes
+47,Gampaha,2,66,Degree,Unemployed,171379,26279,79417,Permanent,Yes,Yes,No,Yes
+48,Kandy,4,50,Primary,Unemployed,242443,54999,76139,Temporary,Yes,Yes,Yes,No
+49,Kurunegala,1,30,Degree,Self-employed,26064,70780,39980,Semi-permanent,No,No,No,No
+50,Anuradhapura,5,29,Primary,Private Sector,91848,30908,27504,Permanent,No,No,Yes,Yes
+51,Kalutara,2,22,Degree,Private Sector,52548,69584,59970,Temporary,No,No,Yes,No
+52,Colombo,1,33,Secondary,Private Sector,183017,58225,21766,Temporary,No,Yes,Yes,No
+53,Kandy,3,35,Primary,Self-employed,194009,45952,98922,Temporary,Yes,Yes,Yes,No
+54,Gampaha,7,29,Degree,Self-employed,21476,45663,16695,Semi-permanent,No,Yes,Yes,No
+55,Anuradhapura,4,48,No Schooling,Self-employed,197828,69381,22796,Semi-permanent,No,No,Yes,Yes
+56,Kandy,1,29,Secondary,Self-employed,105101,55929,47543,Semi-permanent,Yes,No,No,No
+57,Gampaha,2,31,Secondary,Self-employed,17382,17343,19559,Temporary,Yes,No,No,No
+58,Matara,3,49,No Schooling,Government,195755,84173,109450,Semi-permanent,Yes,No,No,Yes
+59,Matara,6,60,Degree,Government,234071,47791,38139,Permanent,No,Yes,No,Yes
+60,Batticaloa,2,20,Advanced Level,Private Sector,191348,37134,108869,Semi-permanent,Yes,Yes,Yes,Yes
+61,Kandy,7,24,No Schooling,Unemployed,179474,55101,13802,Semi-permanent,No,Yes,Yes,Yes
+62,Matara,2,39,Degree,Private Sector,237953,77443,78843,Temporary,Yes,Yes,No,No
+63,Gampaha,3,27,No Schooling,Unemployed,173018,65530,45205,Semi-permanent,Yes,Yes,No,Yes
+64,Batticaloa,2,62,No Schooling,Self-employed,94698,54799,103750,Permanent,No,Yes,No,No
+65,Gampaha,3,31,Primary,Unemployed,220005,12827,39159,Temporary,Yes,Yes,No,No
+66,Batticaloa,1,20,Degree,Private Sector,168407,70653,16516,Permanent,Yes,Yes,No,Yes
+67,Kandy,3,39,Advanced Level,Private Sector,60095,21699,55492,Temporary,Yes,No,No,Yes
+68,Anuradhapura,3,47,Primary,Unemployed,226002,13313,34086,Temporary,Yes,No,No,Yes
+69,Kurunegala,4,62,No Schooling,Government,144974,21598,118758,Semi-permanent,Yes,Yes,No,Yes
+70,Jaffna,3,56,No Schooling,Self-employed,42197,36807,35480,Permanent,No,No,Yes,Yes
+71,Anuradhapura,3,66,No Schooling,Self-employed,142619,78423,57091,Temporary,No,Yes,Yes,Yes
+72,Galle,6,56,Degree,Private Sector,37010,77390,115195,Semi-permanent,Yes,Yes,Yes,No
+73,Gampaha,1,31,Degree,Government,170195,53226,52766,Temporary,No,No,Yes,No
+74,Galle,7,56,Primary,Unemployed,102923,67550,43737,Temporary,No,Yes,No,No
+75,Anuradhapura,4,68,Advanced Level,Self-employed,148962,88072,14265,Temporary,No,Yes,Yes,No
+76,Batticaloa,6,68,Primary,Government,239377,11558,119165,Temporary,Yes,Yes,No,Yes
+77,Jaffna,5,63,Secondary,Self-employed,145526,83308,75990,Temporary,Yes,Yes,Yes,Yes
+78,Jaffna,1,47,No Schooling,Government,124162,58113,106454,Temporary,Yes,Yes,No,No
+79,Colombo,1,66,No Schooling,Government,135927,60999,96717,Semi-permanent,No,Yes,No,No
+80,Jaffna,5,34,No Schooling,Private Sector,23026,63878,20386,Temporary,No,Yes,Yes,No
+81,Kurunegala,7,25,Primary,Self-employed,79925,44343,109718,Permanent,Yes,No,Yes,Yes
+82,Jaffna,3,63,Primary,Unemployed,83842,66219,42425,Semi-permanent,Yes,No,No,Yes
+83,Anuradhapura,6,39,No Schooling,Private Sector,48665,43186,48254,Permanent,No,Yes,No,Yes
+84,Colombo,2,69,Primary,Private Sector,24277,44966,94863,Temporary,No,No,No,No
+85,Anuradhapura,4,33,Degree,Unemployed,188311,41769,58634,Permanent,Yes,Yes,Yes,No
+86,Anuradhapura,2,21,Degree,Private Sector,193736,61218,91717,Temporary,No,Yes,Yes,Yes
+87,Kalutara,5,28,Primary,Government,63008,27229,52662,Temporary,No,Yes,No,Yes
+88,Colombo,1,56,No Schooling,Government,29683,83209,91988,Semi-permanent,No,Yes,Yes,No
+89,Anuradhapura,7,39,Primary,Self-employed,146742,35877,108784,Semi-permanent,No,No,No,No
+90,Kalutara,1,45,Primary,Self-employed,235283,66001,111337,Temporary,No,No,Yes,Yes
+91,Kalutara,4,48,Primary,Unemployed,163961,46084,104287,Semi-permanent,No,No,Yes,No
+92,Colombo,1,20,Secondary,Self-employed,201684,89780,92527,Permanent,No,No,Yes,Yes
+93,Galle,1,54,Degree,Government,190607,24806,111847,Semi-permanent,Yes,Yes,Yes,Yes
+94,Batticaloa,4,25,Advanced Level,Unemployed,93542,45034,80452,Semi-permanent,Yes,No,Yes,No
+95,Kurunegala,6,56,Advanced Level,Unemployed,69319,48317,15143,Permanent,No,Yes,No,No
+96,Batticaloa,6,24,Secondary,Self-employed,107067,63468,96391,Semi-permanent,No,Yes,No,No
+97,Jaffna,4,52,Primary,Government,167711,27094,20581,Temporary,No,No,Yes,Yes
+98,Kurunegala,7,68,Secondary,Unemployed,210784,65796,72443,Permanent,Yes,Yes,No,No
+99,Jaffna,5,33,Secondary,Government,162705,18589,34424,Temporary,Yes,No,No,No
+100,Anuradhapura,1,31,No Schooling,Government,180732,65221,93844,Permanent,No,No,Yes,Yes
+101,Gampaha,7,61,Degree,Government,83975,9657,46984,Temporary,Yes,No,No,Yes
+102,Colombo,1,39,Advanced Level,Self-employed,178244,47531,46505,Temporary,No,No,Yes,No
+103,Kurunegala,5,69,Primary,Private Sector,205269,60227,117061,Semi-permanent,No,No,No,Yes
+104,Kurunegala,6,43,Advanced Level,Private Sector,116158,11164,107478,Temporary,No,Yes,No,Yes
+105,Anuradhapura,7,62,Advanced Level,Unemployed,204919,49247,67699,Semi-permanent,No,No,No,Yes
+106,Galle,3,53,Degree,Government,26577,27601,31957,Permanent,No,No,No,No
+107,Kalutara,3,44,Advanced Level,Self-employed,92299,58599,30464,Temporary,No,Yes,No,No
+108,Anuradhapura,3,69,Advanced Level,Government,35176,79545,119012,Temporary,No,No,No,Yes
+109,Matara,6,48,Secondary,Government,190458,12552,28649,Permanent,Yes,No,No,Yes
+110,Kalutara,6,58,Degree,Self-employed,78972,17417,47065,Permanent,No,Yes,Yes,Yes
+111,Colombo,5,50,No Schooling,Private Sector,135018,66579,97661,Temporary,Yes,Yes,Yes,No
+112,Kalutara,1,66,Primary,Government,235863,76207,39758,Permanent,No,No,Yes,Yes
+113,Galle,5,62,Advanced Level,Government,187075,80055,10596,Semi-permanent,No,Yes,Yes,Yes
+114,Kalutara,5,69,Primary,Private Sector,34996,86270,21374,Permanent,Yes,No,No,No
+115,Colombo,6,42,No Schooling,Self-employed,115922,11722,8775,Permanent,Yes,Yes,No,Yes
+116,Galle,3,63,Primary,Unemployed,101598,78442,32388,Temporary,No,No,No,No
+117,Batticaloa,2,57,No Schooling,Private Sector,50931,48031,26029,Semi-permanent,Yes,No,Yes,No
+118,Kurunegala,1,39,Secondary,Unemployed,139168,87235,88981,Permanent,No,No,Yes,No
+119,Kurunegala,6,42,Advanced Level,Unemployed,181782,29438,58639,Semi-permanent,No,Yes,Yes,Yes
+120,Jaffna,3,64,No Schooling,Private Sector,138099,66819,119010,Semi-permanent,Yes,No,No,Yes
+121,Batticaloa,7,35,Primary,Government,49693,51856,19645,Semi-permanent,Yes,Yes,Yes,No
+122,Batticaloa,2,69,Advanced Level,Unemployed,181812,41576,36105,Temporary,Yes,No,No,Yes
+123,Kalutara,2,61,Secondary,Unemployed,223313,49938,18668,Permanent,Yes,No,Yes,No
+124,Kurunegala,6,27,Advanced Level,Self-employed,123944,57028,20960,Temporary,No,No,No,Yes
+125,Colombo,4,69,No Schooling,Government,239655,67807,16357,Permanent,Yes,No,Yes,No
+126,Kandy,1,40,Secondary,Unemployed,222574,57877,69604,Permanent,Yes,No,No,No
+127,Kandy,2,20,Primary,Self-employed,32374,51461,107739,Temporary,Yes,Yes,Yes,Yes
+128,Galle,6,27,Secondary,Government,222746,48469,56796,Semi-permanent,Yes,Yes,Yes,Yes
+129,Kurunegala,6,48,Secondary,Private Sector,96471,28435,20804,Semi-permanent,Yes,Yes,No,Yes
+130,Kurunegala,3,51,Degree,Private Sector,60913,22191,19626,Permanent,No,No,No,Yes
+131,Kandy,7,57,Secondary,Self-employed,138683,35386,33132,Temporary,No,No,Yes,No
+132,Kurunegala,4,24,Secondary,Private Sector,212097,39721,12951,Semi-permanent,Yes,Yes,No,No
+133,Kalutara,1,66,Advanced Level,Unemployed,59516,62786,11449,Semi-permanent,Yes,No,Yes,Yes
+134,Matara,5,41,Primary,Government,102796,21704,24065,Permanent,No,No,No,Yes
+135,Gampaha,7,66,Advanced Level,Unemployed,41069,64635,106503,Permanent,Yes,No,Yes,No
+136,Batticaloa,7,53,Advanced Level,Unemployed,133333,10123,110072,Temporary,No,Yes,No,Yes
+137,Jaffna,3,20,No Schooling,Private Sector,202305,70993,14130,Permanent,No,Yes,Yes,Yes
+138,Galle,2,45,Advanced Level,Unemployed,99811,88122,94360,Semi-permanent,Yes,Yes,Yes,Yes
+139,Matara,2,62,Degree,Private Sector,205121,33416,67287,Semi-permanent,No,Yes,Yes,Yes
+140,Kandy,3,29,Degree,Government,247892,9814,111937,Semi-permanent,Yes,Yes,No,No
+141,Batticaloa,6,49,No Schooling,Government,133028,86537,56702,Semi-permanent,Yes,No,Yes,No
+142,Kurunegala,2,69,Primary,Unemployed,54178,58258,41993,Temporary,No,No,No,Yes
+143,Jaffna,4,37,Primary,Self-employed,47821,24508,36875,Temporary,No,No,No,No
+144,Kurunegala,1,36,Advanced Level,Private Sector,197799,86916,11054,Permanent,Yes,No,No,Yes
+145,Colombo,7,45,Advanced Level,Private Sector,207007,43699,104809,Permanent,No,Yes,Yes,Yes
+146,Colombo,7,27,Advanced Level,Unemployed,31999,54335,112357,Permanent,Yes,Yes,No,Yes
+147,Jaffna,4,66,Primary,Private Sector,208594,54806,53517,Temporary,No,No,No,No
+148,Jaffna,2,59,Secondary,Private Sector,53712,85853,81368,Semi-permanent,No,Yes,No,No
+149,Kandy,7,68,Degree,Self-employed,210623,71768,34670,Permanent,Yes,No,Yes,No
+150,Jaffna,5,31,Secondary,Self-employed,186244,43739,54112,Semi-permanent,Yes,No,No,No
+151,Kalutara,1,46,Secondary,Unemployed,48722,42785,93388,Permanent,Yes,No,No,No
+152,Kurunegala,1,27,Primary,Self-employed,25625,39980,94156,Permanent,No,No,No,Yes
+153,Matara,7,44,Secondary,Unemployed,213237,9609,33307,Permanent,Yes,Yes,No,Yes
+154,Anuradhapura,3,65,No Schooling,Government,222581,74253,118087,Permanent,Yes,No,Yes,No
+155,Jaffna,7,23,Advanced Level,Unemployed,21859,36141,72087,Permanent,No,Yes,Yes,No
+156,Galle,3,52,No Schooling,Government,187681,38009,52922,Semi-permanent,No,No,No,No
+157,Colombo,7,20,Degree,Unemployed,189379,14782,68080,Permanent,Yes,No,No,Yes
+158,Kalutara,5,38,Advanced Level,Private Sector,125986,33933,98348,Semi-permanent,Yes,No,No,No
+159,Batticaloa,6,50,Secondary,Self-employed,247654,85154,84335,Temporary,Yes,No,No,Yes
+160,Anuradhapura,1,35,Degree,Government,36839,16307,31312,Permanent,Yes,Yes,Yes,Yes
+161,Matara,7,33,Advanced Level,Unemployed,42216,83874,110156,Semi-permanent,No,No,Yes,No
+162,Anuradhapura,5,67,Secondary,Self-employed,67953,46346,71985,Temporary,No,Yes,Yes,Yes
+163,Jaffna,3,24,No Schooling,Unemployed,230553,58772,62608,Temporary,Yes,No,Yes,Yes
+164,Kandy,3,60,Advanced Level,Self-employed,206665,80084,94962,Temporary,Yes,No,No,No
+165,Colombo,1,45,Secondary,Self-employed,218147,48149,105963,Semi-permanent,Yes,No,No,Yes
+166,Colombo,4,47,No Schooling,Unemployed,64522,35526,45277,Permanent,No,Yes,Yes,No
+167,Batticaloa,7,21,Degree,Government,245233,76477,36551,Permanent,Yes,No,Yes,Yes
+168,Kandy,2,69,Degree,Government,150958,13695,94813,Semi-permanent,Yes,No,No,No
+169,Kurunegala,3,25,Degree,Private Sector,126249,47169,61597,Permanent,No,No,No,No
+170,Gampaha,6,28,Degree,Self-employed,22485,55947,106025,Semi-permanent,No,No,No,Yes
+171,Kalutara,6,52,Primary,Private Sector,177527,55224,50212,Permanent,Yes,No,No,No
+172,Colombo,3,60,Advanced Level,Private Sector,162839,53865,14637,Temporary,Yes,Yes,No,Yes
+173,Galle,4,44,Advanced Level,Unemployed,127701,33553,48258,Permanent,No,Yes,Yes,Yes
+174,Colombo,4,67,Primary,Unemployed,174525,68410,40693,Semi-permanent,Yes,No,Yes,No
+175,Anuradhapura,5,32,Secondary,Unemployed,222352,32816,14824,Semi-permanent,Yes,No,No,Yes
+176,Colombo,6,28,Secondary,Self-employed,117638,63026,31950,Temporary,No,Yes,No,No
+177,Colombo,5,32,Degree,Unemployed,199514,58705,28488,Semi-permanent,No,No,Yes,Yes
+178,Gampaha,6,50,No Schooling,Unemployed,197949,69922,109544,Permanent,No,Yes,No,Yes
+179,Gampaha,7,60,Secondary,Self-employed,27226,81914,5215,Permanent,Yes,No,Yes,No
+180,Matara,7,30,No Schooling,Self-employed,108405,9881,110603,Temporary,No,No,Yes,Yes
+181,Kurunegala,2,23,Advanced Level,Government,37588,47567,16523,Semi-permanent,No,Yes,Yes,Yes
+182,Galle,7,53,No Schooling,Unemployed,225048,55365,80900,Temporary,Yes,No,Yes,Yes
+183,Colombo,2,57,Advanced Level,Unemployed,177781,87211,73689,Permanent,Yes,Yes,No,Yes
+184,Colombo,7,65,Primary,Unemployed,193860,78122,28834,Temporary,No,Yes,No,Yes
+185,Kalutara,1,23,Primary,Government,234103,33006,39474,Semi-permanent,No,Yes,Yes,Yes
+186,Gampaha,7,57,Degree,Unemployed,52019,49198,48066,Temporary,Yes,No,No,Yes
+187,Galle,5,38,Secondary,Government,191020,30831,104871,Semi-permanent,Yes,Yes,No,Yes
+188,Batticaloa,3,25,Degree,Private Sector,80133,24459,15400,Semi-permanent,No,Yes,No,No
+189,Matara,5,53,Advanced Level,Government,129444,40443,15345,Permanent,No,No,No,Yes
+190,Kurunegala,3,37,Degree,Private Sector,212530,50316,38896,Permanent,Yes,No,Yes,Yes
+191,Kandy,4,32,No Schooling,Unemployed,132603,72486,90430,Permanent,No,No,No,No
+192,Kurunegala,5,60,Advanced Level,Private Sector,173598,13877,33899,Semi-permanent,Yes,No,Yes,No
+193,Anuradhapura,4,42,Primary,Government,219565,47553,111171,Temporary,No,No,Yes,No
+194,Colombo,2,38,Secondary,Self-employed,143585,12922,33229,Semi-permanent,Yes,No,No,Yes
+195,Matara,2,64,Advanced Level,Private Sector,198270,12686,10583,Permanent,Yes,Yes,Yes,No
+196,Anuradhapura,1,30,Advanced Level,Private Sector,245606,40766,9897,Permanent,No,No,No,No
+197,Galle,7,20,No Schooling,Unemployed,58395,87943,76537,Temporary,No,Yes,No,Yes
+198,Kandy,5,43,Secondary,Government,170103,40006,114417,Permanent,Yes,No,Yes,Yes
+199,Gampaha,4,26,Primary,Private Sector,221614,39422,9567,Permanent,No,Yes,No,No
+200,Matara,3,44,Advanced Level,Private Sector,140814,20205,79807,Permanent,No,Yes,Yes,No
+201,Matara,2,40,Advanced Level,Private Sector,183773,31527,117652,Temporary,No,No,Yes,Yes
+202,Colombo,7,34,No Schooling,Private Sector,127599,26443,82239,Semi-permanent,Yes,No,No,Yes
+203,Jaffna,2,20,Degree,Self-employed,40939,24524,18329,Permanent,No,Yes,No,Yes
+204,Matara,3,31,Primary,Government,195217,36202,106045,Temporary,No,No,No,Yes
+205,Kalutara,7,26,Secondary,Unemployed,166396,73552,76792,Permanent,Yes,No,Yes,Yes
+206,Kandy,7,34,Advanced Level,Unemployed,168939,54142,5228,Temporary,No,Yes,No,No
+207,Kandy,4,40,Advanced Level,Self-employed,15203,69692,95282,Permanent,No,Yes,Yes,Yes
+208,Kalutara,4,38,Primary,Government,162616,28855,87214,Temporary,Yes,Yes,Yes,Yes
+209,Batticaloa,5,48,Degree,Private Sector,161971,68372,42052,Permanent,Yes,No,No,Yes
+210,Kalutara,5,44,Advanced Level,Self-employed,44063,33095,62769,Semi-permanent,No,No,No,Yes
+211,Kalutara,6,52,Primary,Government,105880,46724,51032,Permanent,No,No,No,Yes
+212,Kandy,6,68,No Schooling,Private Sector,18748,57241,116694,Temporary,Yes,No,Yes,No
+213,Kurunegala,1,51,Degree,Self-employed,132269,60003,93721,Permanent,Yes,Yes,No,Yes
+214,Kandy,2,68,Secondary,Government,212701,76379,38686,Semi-permanent,No,No,Yes,No
+215,Jaffna,5,54,Advanced Level,Unemployed,95764,23972,81981,Permanent,No,Yes,No,Yes
+216,Colombo,4,63,Primary,Unemployed,166956,30927,103802,Temporary,No,No,No,No
+217,Anuradhapura,3,57,No Schooling,Government,171255,74630,68261,Temporary,Yes,No,Yes,No
+218,Kurunegala,4,45,Secondary,Unemployed,227642,60347,7809,Semi-permanent,No,Yes,Yes,Yes
+219,Gampaha,2,30,Primary,Government,217318,77518,108265,Temporary,Yes,No,No,Yes
+220,Anuradhapura,6,54,Primary,Private Sector,123036,53283,46785,Permanent,Yes,No,No,Yes
+221,Colombo,4,27,Secondary,Government,165331,89326,41547,Permanent,Yes,Yes,No,Yes
+222,Jaffna,1,65,No Schooling,Private Sector,182031,20205,47818,Permanent,No,No,No,Yes
+223,Jaffna,2,33,No Schooling,Self-employed,131525,20748,105422,Temporary,No,Yes,No,No
+224,Gampaha,6,29,Degree,Government,179529,29097,76927,Permanent,No,Yes,Yes,Yes
+225,Kurunegala,3,21,Advanced Level,Self-employed,100679,11092,70681,Permanent,Yes,Yes,Yes,Yes
+226,Batticaloa,6,65,Secondary,Unemployed,140829,61311,84465,Permanent,No,Yes,Yes,No
+227,Kalutara,7,28,Secondary,Private Sector,143216,30692,94862,Semi-permanent,Yes,No,Yes,Yes
+228,Kurunegala,1,22,Secondary,Government,148175,31862,100527,Temporary,Yes,No,No,No
+229,Batticaloa,2,40,No Schooling,Self-employed,80901,87507,118221,Temporary,Yes,No,Yes,Yes
+230,Jaffna,3,45,Advanced Level,Private Sector,190607,88152,42333,Temporary,Yes,Yes,Yes,No
+231,Kandy,1,27,Degree,Private Sector,162175,78469,21576,Semi-permanent,Yes,No,Yes,Yes
+232,Colombo,6,67,Primary,Unemployed,113046,12926,44405,Temporary,Yes,No,No,No
+233,Gampaha,1,21,Primary,Unemployed,105012,11969,99000,Semi-permanent,No,No,Yes,No
+234,Colombo,2,25,Secondary,Private Sector,93278,43733,78779,Semi-permanent,Yes,No,No,Yes
+235,Galle,5,47,Advanced Level,Private Sector,27391,77855,36601,Temporary,No,Yes,Yes,Yes
+236,Galle,1,48,No Schooling,Government,117476,49743,72946,Permanent,Yes,Yes,No,Yes
+237,Kurunegala,7,45,Advanced Level,Private Sector,174973,47876,72356,Permanent,No,No,Yes,No
+238,Jaffna,1,44,Advanced Level,Government,135721,28323,57116,Temporary,No,Yes,No,No
+239,Jaffna,6,31,No Schooling,Private Sector,112537,24428,105825,Temporary,No,No,Yes,No
+240,Kalutara,6,24,Secondary,Unemployed,96159,42578,109186,Semi-permanent,No,No,No,Yes
+241,Kalutara,3,53,Advanced Level,Government,213986,72140,67894,Temporary,Yes,No,No,Yes
+242,Kalutara,6,67,Primary,Self-employed,146040,14364,39635,Semi-permanent,Yes,Yes,Yes,No
+243,Kandy,4,56,No Schooling,Unemployed,196429,43349,12465,Temporary,Yes,No,No,Yes
+244,Anuradhapura,2,34,Degree,Government,232980,8691,61754,Permanent,Yes,Yes,No,No
+245,Matara,2,63,Secondary,Government,184509,74467,102975,Permanent,No,Yes,Yes,Yes
+246,Anuradhapura,5,55,No Schooling,Self-employed,50503,53896,97850,Temporary,No,No,Yes,Yes
+247,Colombo,5,34,Degree,Government,242354,65062,114765,Semi-permanent,No,Yes,No,No
+248,Anuradhapura,2,62,Degree,Private Sector,239531,87762,90119,Permanent,Yes,Yes,Yes,Yes
+249,Kandy,7,67,Advanced Level,Self-employed,90403,21861,97691,Semi-permanent,No,No,Yes,Yes
+250,Colombo,5,42,Advanced Level,Unemployed,187330,71928,43871,Temporary,Yes,Yes,Yes,Yes
+251,Anuradhapura,3,25,Advanced Level,Unemployed,179796,49347,67874,Temporary,No,Yes,No,Yes
+252,Kandy,6,65,No Schooling,Private Sector,79286,11121,82733,Permanent,No,No,No,Yes
+253,Matara,2,69,No Schooling,Unemployed,89842,36164,34511,Temporary,No,No,No,No
+254,Anuradhapura,5,63,Secondary,Government,119927,33491,85960,Permanent,No,Yes,No,Yes
+255,Kandy,2,62,Advanced Level,Government,29908,67222,53821,Semi-permanent,No,No,No,No
+256,Kalutara,4,64,Degree,Private Sector,238689,31165,70776,Permanent,Yes,No,No,Yes
+257,Jaffna,1,40,Primary,Unemployed,196698,11748,75167,Permanent,No,Yes,No,Yes
+258,Kalutara,6,42,Secondary,Unemployed,52228,34553,80135,Semi-permanent,Yes,Yes,Yes,No
+259,Jaffna,2,62,No Schooling,Private Sector,38386,68380,49462,Permanent,Yes,No,No,No
+260,Gampaha,1,35,Secondary,Self-employed,192826,52331,66382,Permanent,Yes,Yes,No,Yes
+261,Gampaha,5,66,Secondary,Unemployed,43302,47560,95194,Temporary,Yes,No,Yes,Yes
+262,Gampaha,1,34,Secondary,Self-employed,75815,61865,108381,Semi-permanent,Yes,No,Yes,No
+263,Matara,6,44,Secondary,Unemployed,230820,54686,37574,Permanent,Yes,Yes,Yes,No
+264,Kalutara,2,55,Primary,Unemployed,78344,83910,107072,Semi-permanent,Yes,Yes,No,No
+265,Jaffna,4,30,Advanced Level,Unemployed,181690,12675,46910,Semi-permanent,Yes,No,Yes,No
+266,Kandy,7,34,Degree,Unemployed,126603,74706,78531,Permanent,No,No,No,Yes
+267,Colombo,5,23,Secondary,Government,222306,85986,30186,Temporary,No,No,No,Yes
+268,Kandy,2,40,Secondary,Self-employed,76114,84216,99781,Semi-permanent,Yes,No,No,Yes
+269,Colombo,6,32,Secondary,Self-employed,216202,18068,27813,Permanent,Yes,Yes,Yes,Yes
+270,Galle,5,41,Advanced Level,Unemployed,40525,62460,83812,Semi-permanent,Yes,No,Yes,Yes
+271,Kandy,3,38,No Schooling,Unemployed,94818,54418,90525,Temporary,No,Yes,No,No
+272,Anuradhapura,1,53,No Schooling,Self-employed,129589,34206,83282,Temporary,No,Yes,No,No
+273,Anuradhapura,7,33,Primary,Government,160406,8287,114779,Temporary,Yes,No,No,No
+274,Kurunegala,6,23,No Schooling,Private Sector,109715,30337,23557,Permanent,Yes,Yes,Yes,Yes
+275,Kalutara,3,67,Secondary,Private Sector,208839,28666,33060,Permanent,No,Yes,No,No
+276,Colombo,2,65,Secondary,Self-employed,21644,9161,63866,Temporary,No,No,Yes,Yes
+277,Colombo,4,46,Secondary,Unemployed,116154,46751,77104,Permanent,Yes,Yes,No,Yes
+278,Kalutara,5,48,Primary,Unemployed,179005,22758,105905,Temporary,Yes,Yes,Yes,Yes
+279,Matara,1,66,Secondary,Government,58469,73780,89577,Permanent,Yes,No,No,No
+280,Kurunegala,5,47,No Schooling,Private Sector,179759,11178,11080,Temporary,Yes,No,Yes,Yes
+281,Matara,7,54,Advanced Level,Government,121609,39831,18854,Semi-permanent,No,No,Yes,Yes
+282,Matara,2,27,Advanced Level,Private Sector,198728,10176,72695,Temporary,No,No,Yes,No
+283,Matara,5,35,Degree,Self-employed,163447,41654,32025,Temporary,Yes,No,Yes,Yes
+284,Kalutara,1,61,No Schooling,Private Sector,80206,34627,57982,Permanent,Yes,No,Yes,No
+285,Matara,2,55,Secondary,Government,111462,60550,46081,Permanent,Yes,No,Yes,Yes
+286,Anuradhapura,5,49,Advanced Level,Government,182679,52910,9368,Permanent,No,Yes,No,No
+287,Gampaha,4,37,No Schooling,Government,98178,66251,104621,Permanent,Yes,Yes,No,Yes
+288,Galle,6,21,Advanced Level,Self-employed,170065,43422,32094,Permanent,Yes,No,No,Yes
+289,Colombo,2,68,Secondary,Private Sector,190458,19984,51040,Permanent,Yes,Yes,No,No
+290,Colombo,6,32,Advanced Level,Private Sector,192359,69386,71766,Semi-permanent,No,Yes,Yes,Yes
+291,Galle,2,23,Degree,Government,101724,15135,88053,Temporary,Yes,No,No,No
+292,Kalutara,4,45,Degree,Private Sector,244204,8320,28991,Temporary,No,Yes,Yes,Yes
+293,Kandy,6,44,Advanced Level,Unemployed,239380,29684,6301,Temporary,Yes,No,Yes,No
+294,Kalutara,3,49,No Schooling,Unemployed,111393,63913,33610,Semi-permanent,Yes,Yes,Yes,Yes
+295,Colombo,1,30,No Schooling,Unemployed,142314,29889,86463,Temporary,Yes,No,No,Yes
+296,Colombo,3,26,No Schooling,Private Sector,91312,56899,39678,Semi-permanent,No,Yes,Yes,Yes
+297,Galle,5,50,Advanced Level,Self-employed,244443,18770,29466,Semi-permanent,Yes,Yes,No,No
+298,Matara,4,63,No Schooling,Self-employed,90324,47321,85440,Semi-permanent,Yes,Yes,No,No
+299,Kalutara,3,29,Secondary,Self-employed,86196,49777,45875,Temporary,No,No,No,No
+300,Jaffna,2,58,Degree,Self-employed,85014,54250,31081,Semi-permanent,No,Yes,No,No
+301,Galle,5,32,Secondary,Unemployed,154282,81034,29354,Temporary,No,Yes,No,No
+302,Anuradhapura,5,50,No Schooling,Unemployed,156994,48130,98297,Temporary,Yes,No,Yes,Yes
+303,Colombo,3,26,Secondary,Government,182361,89931,23300,Permanent,No,No,Yes,Yes
+304,Galle,3,68,No Schooling,Private Sector,48340,57346,69384,Permanent,Yes,Yes,No,Yes
+305,Kalutara,4,61,Advanced Level,Private Sector,54850,10537,100027,Semi-permanent,No,Yes,Yes,Yes
+306,Colombo,1,61,Secondary,Self-employed,203056,23216,65892,Semi-permanent,No,Yes,No,Yes
+307,Kandy,3,55,Advanced Level,Unemployed,249771,11009,40525,Temporary,No,Yes,Yes,No
+308,Galle,7,39,Advanced Level,Self-employed,128711,37327,31532,Semi-permanent,Yes,No,Yes,Yes
+309,Kurunegala,3,23,Primary,Government,230250,22209,11464,Semi-permanent,Yes,Yes,Yes,No
+310,Colombo,6,26,No Schooling,Private Sector,26094,56443,21562,Temporary,Yes,Yes,Yes,Yes
+311,Kalutara,2,20,Degree,Private Sector,102959,23029,112392,Semi-permanent,Yes,No,Yes,No
+312,Gampaha,7,63,No Schooling,Self-employed,179490,75613,60514,Semi-permanent,Yes,Yes,Yes,No
+313,Jaffna,7,64,Degree,Government,20741,87443,118428,Temporary,Yes,Yes,Yes,No
+314,Batticaloa,6,61,No Schooling,Private Sector,126585,64997,117564,Temporary,Yes,Yes,Yes,Yes
+315,Matara,6,66,Advanced Level,Government,218446,70559,113047,Permanent,Yes,No,Yes,Yes
+316,Batticaloa,5,32,Secondary,Government,137564,72892,79219,Temporary,Yes,No,Yes,Yes
+317,Kalutara,1,41,Secondary,Self-employed,83798,78409,37634,Permanent,No,Yes,Yes,Yes
+318,Anuradhapura,2,40,Primary,Unemployed,131026,16635,5060,Semi-permanent,No,Yes,Yes,No
+319,Anuradhapura,4,41,Degree,Self-employed,216604,41065,14269,Temporary,Yes,No,Yes,No
+320,Gampaha,7,47,Degree,Unemployed,125130,41783,68143,Temporary,Yes,Yes,No,No
+321,Matara,4,28,Degree,Government,37164,42152,28065,Temporary,Yes,Yes,Yes,No
+322,Kurunegala,3,45,Advanced Level,Unemployed,181667,66741,7895,Semi-permanent,Yes,No,Yes,Yes
+323,Gampaha,3,28,Degree,Government,45257,59502,85859,Permanent,No,No,Yes,No
+324,Batticaloa,4,34,Secondary,Private Sector,160283,37092,17352,Semi-permanent,No,No,Yes,Yes
+325,Gampaha,3,29,Advanced Level,Private Sector,110989,25653,115179,Semi-permanent,Yes,Yes,Yes,No
+326,Batticaloa,1,43,No Schooling,Private Sector,151304,48469,54737,Temporary,No,Yes,Yes,No
+327,Colombo,6,61,Degree,Self-employed,213825,67754,109127,Permanent,No,Yes,No,No
+328,Anuradhapura,3,27,Degree,Self-employed,67691,37978,101426,Semi-permanent,Yes,Yes,No,Yes
+329,Colombo,5,43,No Schooling,Government,235837,51169,37016,Temporary,Yes,No,No,Yes
+330,Jaffna,3,35,Degree,Private Sector,94768,56287,66304,Semi-permanent,Yes,Yes,Yes,No
+331,Matara,2,68,No Schooling,Self-employed,171685,62745,16962,Semi-permanent,Yes,Yes,Yes,No
+332,Kurunegala,1,45,Advanced Level,Private Sector,29026,13543,38302,Temporary,No,No,Yes,No
+333,Batticaloa,2,46,Secondary,Self-employed,199607,64392,90382,Temporary,Yes,No,No,Yes
+334,Kurunegala,2,56,No Schooling,Unemployed,240162,29067,9011,Permanent,No,Yes,Yes,Yes
+335,Batticaloa,5,23,Primary,Unemployed,45908,59033,24782,Semi-permanent,Yes,No,Yes,Yes
+336,Kalutara,1,69,No Schooling,Private Sector,198185,53256,72691,Temporary,No,No,No,No
+337,Gampaha,1,43,Degree,Government,34610,77345,44725,Temporary,Yes,Yes,No,Yes
+338,Jaffna,1,38,Advanced Level,Self-employed,192718,30191,14196,Permanent,Yes,Yes,Yes,No
+339,Anuradhapura,1,55,Advanced Level,Self-employed,78185,80742,48459,Permanent,No,Yes,Yes,Yes
+340,Batticaloa,1,58,No Schooling,Unemployed,87567,36992,92245,Temporary,No,Yes,Yes,No
+341,Kurunegala,5,29,Secondary,Unemployed,193646,89531,83863,Permanent,No,No,Yes,No
+342,Jaffna,3,44,Primary,Government,237123,56803,106010,Temporary,Yes,No,No,Yes
+343,Kandy,2,37,Advanced Level,Government,248092,71477,37769,Semi-permanent,No,Yes,Yes,No
+344,Kandy,1,38,Degree,Government,51182,21210,112529,Permanent,No,Yes,Yes,No
+345,Colombo,7,55,Degree,Private Sector,131136,34270,29700,Semi-permanent,No,No,No,No
+346,Anuradhapura,3,29,Secondary,Unemployed,146642,70008,85356,Semi-permanent,No,Yes,Yes,Yes
+347,Kalutara,3,52,Advanced Level,Private Sector,243862,13197,81427,Semi-permanent,No,Yes,Yes,No
+348,Kurunegala,2,69,No Schooling,Unemployed,34288,15452,105165,Temporary,No,Yes,No,Yes
+349,Gampaha,5,24,Degree,Unemployed,93824,49486,10269,Semi-permanent,No,Yes,No,Yes
+350,Gampaha,4,66,Secondary,Self-employed,175949,22859,48880,Semi-permanent,No,No,Yes,No
+351,Kurunegala,4,68,Advanced Level,Unemployed,99425,35236,119003,Semi-permanent,No,Yes,No,Yes
+352,Matara,3,54,Advanced Level,Unemployed,15917,39899,13320,Temporary,Yes,No,No,No
+353,Kalutara,6,63,Advanced Level,Private Sector,90602,40083,54589,Semi-permanent,Yes,Yes,Yes,Yes
+354,Jaffna,6,53,Advanced Level,Unemployed,241112,75708,81276,Semi-permanent,No,Yes,No,No
+355,Batticaloa,2,52,Advanced Level,Private Sector,79575,24663,40897,Permanent,Yes,No,Yes,Yes
+356,Matara,4,40,Degree,Government,87518,27053,63565,Temporary,Yes,Yes,Yes,No
+357,Batticaloa,3,36,Secondary,Unemployed,54104,19085,35930,Semi-permanent,No,No,Yes,No
+358,Batticaloa,5,41,Advanced Level,Unemployed,164134,38564,62233,Permanent,No,Yes,Yes,No
+359,Matara,4,67,Primary,Private Sector,31999,67095,87821,Temporary,No,Yes,No,No
+360,Colombo,3,56,Primary,Government,207917,77517,19380,Temporary,No,Yes,Yes,Yes
+361,Kandy,3,34,Secondary,Self-employed,156013,29153,81896,Temporary,No,Yes,Yes,Yes
+362,Batticaloa,1,54,No Schooling,Government,76169,13247,75934,Temporary,No,Yes,Yes,No
+363,Matara,5,47,No Schooling,Private Sector,169542,18553,60830,Temporary,Yes,No,Yes,Yes
+364,Matara,1,26,No Schooling,Government,144744,28811,10529,Temporary,No,No,No,No
+365,Galle,2,51,Primary,Private Sector,125684,14135,99598,Semi-permanent,Yes,Yes,No,No
+366,Colombo,1,30,No Schooling,Private Sector,74821,13573,107222,Semi-permanent,No,Yes,No,Yes
+367,Anuradhapura,7,29,Degree,Self-employed,232741,87267,87987,Semi-permanent,No,No,Yes,Yes
+368,Galle,1,28,Advanced Level,Unemployed,190507,15189,54178,Semi-permanent,Yes,No,No,No
+369,Galle,7,33,Primary,Private Sector,150601,88077,11937,Permanent,No,Yes,No,Yes
+370,Kurunegala,4,32,Secondary,Private Sector,229127,51646,44886,Semi-permanent,No,Yes,Yes,No
+371,Kandy,6,44,Secondary,Self-employed,27192,84623,54699,Temporary,Yes,No,No,Yes
+372,Matara,3,21,Advanced Level,Private Sector,89102,61687,81396,Semi-permanent,No,Yes,Yes,Yes
+373,Kandy,7,54,Primary,Unemployed,218834,76312,95678,Semi-permanent,Yes,No,No,Yes
+374,Kalutara,5,26,No Schooling,Self-employed,249538,35564,30279,Temporary,No,Yes,No,Yes
+375,Kurunegala,1,40,No Schooling,Unemployed,129894,36835,43106,Semi-permanent,No,No,No,Yes
+376,Anuradhapura,7,37,Degree,Unemployed,101795,69587,115776,Semi-permanent,Yes,No,No,No
+377,Kandy,5,22,Degree,Self-employed,180159,15697,106444,Semi-permanent,No,Yes,Yes,Yes
+378,Gampaha,6,61,No Schooling,Private Sector,81677,88165,111300,Permanent,Yes,No,Yes,Yes
+379,Batticaloa,6,58,Secondary,Unemployed,150699,81922,118793,Semi-permanent,Yes,Yes,No,No
+380,Kalutara,1,60,Secondary,Unemployed,202613,25046,84737,Temporary,Yes,Yes,Yes,No
+381,Colombo,2,68,Degree,Unemployed,214298,65823,45544,Temporary,No,Yes,No,No
+382,Anuradhapura,1,30,Advanced Level,Unemployed,149327,81580,108247,Semi-permanent,No,Yes,No,Yes
+383,Kalutara,4,58,No Schooling,Self-employed,203505,61370,116190,Semi-permanent,Yes,No,No,Yes
+384,Batticaloa,7,43,Degree,Self-employed,151285,17615,13997,Semi-permanent,No,Yes,No,No
+385,Kurunegala,3,65,Degree,Government,117412,13060,111102,Temporary,No,Yes,No,No
+386,Batticaloa,2,38,No Schooling,Government,34404,84436,90711,Temporary,No,Yes,No,No
+387,Galle,1,23,No Schooling,Unemployed,131545,68519,45860,Permanent,Yes,Yes,Yes,No
+388,Batticaloa,5,45,Secondary,Private Sector,171452,79117,8225,Permanent,No,No,Yes,Yes
+389,Galle,2,57,Advanced Level,Unemployed,237128,69158,115114,Permanent,Yes,Yes,No,Yes
+390,Kurunegala,7,61,Advanced Level,Private Sector,165245,42782,64470,Temporary,No,No,Yes,Yes
+391,Jaffna,2,51,No Schooling,Unemployed,199099,86533,118218,Permanent,No,No,No,Yes
+392,Galle,7,58,Primary,Government,38989,66255,105764,Semi-permanent,Yes,No,Yes,Yes
+393,Colombo,1,64,Degree,Government,123106,80684,112041,Semi-permanent,No,Yes,Yes,No
+394,Batticaloa,7,65,Degree,Private Sector,39519,64918,117224,Temporary,Yes,Yes,Yes,Yes
+395,Batticaloa,2,55,No Schooling,Unemployed,37439,87558,68656,Permanent,No,Yes,No,No
+396,Colombo,5,59,Primary,Private Sector,133570,89422,56880,Semi-permanent,Yes,Yes,Yes,No
+397,Gampaha,6,56,Secondary,Government,223021,33256,66078,Temporary,No,No,No,No
+398,Matara,2,52,No Schooling,Unemployed,29995,38005,93646,Permanent,No,No,No,Yes
+399,Jaffna,7,55,No Schooling,Unemployed,38559,14638,81290,Semi-permanent,No,Yes,No,No
+400,Anuradhapura,6,22,Degree,Private Sector,104049,45419,61633,Permanent,Yes,Yes,Yes,Yes
+401,Galle,7,28,No Schooling,Self-employed,151093,41377,31655,Temporary,Yes,Yes,Yes,No
+402,Colombo,5,27,No Schooling,Private Sector,113000,51116,48601,Permanent,Yes,Yes,Yes,Yes
+403,Kurunegala,7,52,No Schooling,Government,167191,44634,8114,Temporary,No,Yes,No,No
+404,Galle,1,25,Degree,Government,197611,31382,31502,Permanent,Yes,Yes,No,Yes
+405,Matara,3,60,Secondary,Government,240907,64063,54768,Semi-permanent,Yes,Yes,Yes,No
+406,Kurunegala,2,58,Secondary,Government,54350,30394,53128,Temporary,Yes,No,No,No
+407,Kalutara,3,23,No Schooling,Government,192295,75789,25028,Temporary,Yes,No,Yes,No
+408,Batticaloa,7,32,Degree,Self-employed,40517,8864,60565,Temporary,Yes,No,Yes,No
+409,Kalutara,5,68,Secondary,Unemployed,224725,48222,88123,Permanent,Yes,No,Yes,Yes
+410,Galle,2,21,Secondary,Private Sector,168322,21666,113255,Permanent,Yes,Yes,Yes,Yes
+411,Matara,7,24,Secondary,Private Sector,230558,28955,40333,Semi-permanent,Yes,Yes,No,Yes
+412,Jaffna,6,63,Degree,Government,228967,89845,8174,Temporary,Yes,Yes,Yes,No
+413,Galle,4,46,Degree,Private Sector,104132,77590,40398,Temporary,Yes,Yes,Yes,No
+414,Colombo,7,51,No Schooling,Government,237138,74471,40929,Permanent,No,Yes,Yes,No
+415,Kandy,3,40,Advanced Level,Self-employed,212870,51298,9321,Permanent,No,No,Yes,No
+416,Galle,2,27,Secondary,Self-employed,200271,71108,100971,Semi-permanent,Yes,Yes,Yes,No
+417,Batticaloa,3,57,Advanced Level,Unemployed,74546,56924,116508,Semi-permanent,No,No,Yes,No
+418,Batticaloa,2,27,Degree,Self-employed,120686,24709,60421,Permanent,No,Yes,Yes,Yes
+419,Galle,7,69,Degree,Self-employed,103151,17726,77635,Temporary,Yes,No,No,Yes
+420,Kurunegala,1,22,Degree,Unemployed,18327,68824,28760,Semi-permanent,Yes,Yes,No,Yes
+421,Kandy,6,63,Advanced Level,Private Sector,135318,48542,16360,Permanent,Yes,No,No,Yes
+422,Colombo,7,22,Degree,Government,175840,28245,15313,Permanent,No,Yes,No,Yes
+423,Galle,3,41,No Schooling,Government,210490,42753,116806,Temporary,Yes,Yes,Yes,Yes
+424,Kurunegala,4,25,Degree,Private Sector,240458,87788,90998,Permanent,No,Yes,No,Yes
+425,Batticaloa,4,21,Primary,Unemployed,188860,29316,10801,Permanent,Yes,Yes,No,Yes
+426,Batticaloa,5,42,Advanced Level,Private Sector,130945,23960,19130,Semi-permanent,No,No,No,No
+427,Matara,2,63,Primary,Self-employed,228456,38791,19271,Permanent,No,Yes,Yes,No
+428,Galle,3,21,Degree,Unemployed,61830,33216,21075,Permanent,Yes,No,No,No
+429,Kandy,5,57,No Schooling,Unemployed,67446,40467,107455,Semi-permanent,Yes,Yes,No,No
+430,Gampaha,3,36,Secondary,Unemployed,161232,72427,112215,Temporary,No,No,Yes,No
+431,Kandy,2,54,Degree,Government,202655,70047,23984,Temporary,No,Yes,No,No
+432,Batticaloa,7,53,No Schooling,Private Sector,180070,81290,93095,Semi-permanent,Yes,Yes,Yes,No
+433,Batticaloa,7,42,Advanced Level,Unemployed,173302,55014,65942,Semi-permanent,Yes,No,No,Yes
+434,Kalutara,4,49,Primary,Unemployed,155148,12078,17861,Temporary,No,Yes,Yes,Yes
+435,Batticaloa,7,27,Primary,Unemployed,84341,86389,103970,Temporary,Yes,Yes,No,No
+436,Colombo,7,41,Primary,Private Sector,46085,58519,87203,Temporary,No,No,No,Yes
+437,Anuradhapura,1,63,Advanced Level,Government,70571,12042,76376,Temporary,Yes,Yes,No,Yes
+438,Galle,4,55,No Schooling,Self-employed,160787,57052,66247,Temporary,Yes,No,Yes,Yes
+439,Kandy,5,24,Advanced Level,Government,143308,22389,74101,Semi-permanent,Yes,Yes,No,Yes
+440,Anuradhapura,6,32,Primary,Unemployed,20750,76111,113730,Permanent,No,No,Yes,Yes
+441,Kurunegala,1,48,Degree,Government,128931,58733,25977,Temporary,Yes,No,Yes,No
+442,Gampaha,5,50,Secondary,Government,93768,42754,55617,Temporary,No,No,Yes,Yes
+443,Colombo,2,66,Advanced Level,Self-employed,50903,26624,62473,Permanent,Yes,No,Yes,No
+444,Kandy,1,35,Advanced Level,Private Sector,218561,34681,91654,Permanent,No,Yes,No,No
+445,Anuradhapura,5,61,No Schooling,Private Sector,178165,89006,93177,Permanent,No,Yes,No,No
+446,Gampaha,2,49,No Schooling,Government,106036,32704,77902,Permanent,Yes,No,No,Yes
+447,Kalutara,4,35,Advanced Level,Government,102954,15493,97172,Permanent,No,Yes,Yes,No
+448,Colombo,6,31,Primary,Private Sector,180386,77639,20630,Permanent,No,Yes,No,No
+449,Colombo,2,36,Secondary,Private Sector,194297,62383,25056,Semi-permanent,No,Yes,Yes,No
+450,Kalutara,7,35,No Schooling,Self-employed,234057,10994,12382,Permanent,No,No,Yes,No
+451,Galle,3,31,Primary,Unemployed,98014,77280,60739,Permanent,Yes,Yes,Yes,Yes
+452,Kalutara,2,27,Degree,Government,181251,55234,86685,Semi-permanent,Yes,Yes,No,No
+453,Colombo,2,39,No Schooling,Private Sector,132305,55291,53639,Permanent,Yes,No,No,No
+454,Colombo,6,22,Primary,Government,171410,13594,64838,Temporary,No,Yes,Yes,No
+455,Anuradhapura,3,35,Primary,Government,238507,15371,51041,Temporary,No,No,No,No
+456,Batticaloa,7,49,Secondary,Private Sector,215753,55315,5992,Permanent,Yes,No,No,Yes
+457,Gampaha,5,64,Secondary,Self-employed,47101,87526,77394,Semi-permanent,Yes,No,Yes,No
+458,Kalutara,5,42,Degree,Government,17775,24626,72657,Temporary,No,Yes,Yes,No
+459,Gampaha,2,47,Primary,Self-employed,126497,15130,32160,Semi-permanent,Yes,Yes,No,No
+460,Kalutara,3,59,Primary,Private Sector,243255,14828,50156,Temporary,Yes,No,Yes,No
+461,Kurunegala,3,24,Secondary,Unemployed,60619,65514,56375,Permanent,No,No,Yes,No
+462,Colombo,7,39,No Schooling,Unemployed,191910,60664,91442,Semi-permanent,Yes,No,No,No
+463,Batticaloa,6,59,No Schooling,Government,165611,25883,24572,Semi-permanent,No,No,No,Yes
+464,Anuradhapura,4,63,Advanced Level,Private Sector,248346,51059,9136,Semi-permanent,Yes,No,Yes,No
+465,Batticaloa,5,20,Secondary,Self-employed,72124,50932,66868,Temporary,No,No,No,Yes
+466,Batticaloa,6,49,Advanced Level,Government,80149,69269,87263,Temporary,No,Yes,Yes,Yes
+467,Batticaloa,1,40,Secondary,Private Sector,41616,83986,37167,Temporary,No,No,Yes,No
+468,Gampaha,5,39,Degree,Private Sector,225727,10035,115957,Permanent,No,No,No,Yes
+469,Kalutara,6,25,Primary,Self-employed,236767,48745,20479,Temporary,No,No,Yes,No
+470,Jaffna,5,41,Degree,Government,200639,25241,36376,Permanent,Yes,Yes,Yes,Yes
+471,Kurunegala,4,37,Secondary,Private Sector,183171,60975,9823,Semi-permanent,Yes,Yes,Yes,No
+472,Kandy,1,27,Primary,Private Sector,221903,31154,75456,Semi-permanent,Yes,Yes,No,Yes
+473,Batticaloa,4,58,No Schooling,Private Sector,246318,33625,24585,Permanent,No,Yes,No,Yes
+474,Galle,7,51,No Schooling,Self-employed,76799,52950,108775,Temporary,Yes,No,No,No
+475,Gampaha,1,52,Advanced Level,Government,105221,64396,22272,Permanent,No,Yes,Yes,Yes
+476,Anuradhapura,2,35,Secondary,Government,129879,21331,31619,Semi-permanent,No,No,Yes,Yes
+477,Kandy,6,31,Secondary,Government,40479,71927,80069,Semi-permanent,Yes,No,No,Yes
+478,Jaffna,1,57,No Schooling,Government,192244,71014,44895,Permanent,No,No,No,Yes
+479,Galle,7,53,Degree,Unemployed,114165,47346,8720,Temporary,Yes,No,No,Yes
+480,Jaffna,7,33,Primary,Unemployed,70863,78411,24267,Temporary,No,No,Yes,No
+481,Kandy,4,55,Degree,Government,188115,62478,20696,Permanent,No,No,No,Yes
+482,Batticaloa,5,52,Degree,Self-employed,97569,20254,34968,Permanent,Yes,Yes,Yes,Yes
+483,Galle,1,42,No Schooling,Unemployed,248510,63734,58364,Temporary,No,Yes,No,No
+484,Jaffna,6,69,No Schooling,Private Sector,161480,36621,28345,Semi-permanent,Yes,Yes,Yes,No
+485,Anuradhapura,1,64,No Schooling,Unemployed,204052,84441,56567,Permanent,No,Yes,Yes,No
+486,Kalutara,3,21,Advanced Level,Private Sector,229028,54121,96229,Temporary,Yes,Yes,No,Yes
+487,Colombo,5,60,Degree,Government,31351,89418,66607,Temporary,No,No,Yes,Yes
+488,Kalutara,6,40,Secondary,Unemployed,150203,68197,24385,Semi-permanent,Yes,Yes,No,Yes
+489,Kandy,6,21,Primary,Self-employed,59825,50431,88658,Semi-permanent,Yes,Yes,Yes,Yes
+490,Gampaha,2,46,Advanced Level,Unemployed,26349,12837,71900,Semi-permanent,No,Yes,Yes,No
+491,Colombo,4,28,Secondary,Unemployed,207003,79232,73244,Semi-permanent,Yes,No,No,No
+492,Kurunegala,2,20,Degree,Unemployed,59254,56994,70425,Semi-permanent,No,No,Yes,Yes
+493,Anuradhapura,6,30,No Schooling,Government,53225,87079,83518,Permanent,No,No,No,Yes
+494,Kurunegala,5,22,Degree,Self-employed,27453,20615,87844,Temporary,Yes,Yes,No,Yes
+495,Galle,1,42,Primary,Unemployed,164886,9466,37919,Permanent,Yes,Yes,No,Yes
+496,Colombo,1,45,Advanced Level,Self-employed,164335,38771,95697,Permanent,Yes,Yes,Yes,No
+497,Kurunegala,5,23,Advanced Level,Government,92694,73911,62196,Permanent,Yes,Yes,Yes,No
+498,Kurunegala,6,37,Primary,Private Sector,30735,28746,105625,Permanent,Yes,Yes,Yes,Yes
+499,Jaffna,7,25,Secondary,Unemployed,161902,68739,84401,Permanent,No,No,No,No
+500,Kalutara,1,54,Secondary,Self-employed,62893,81369,5495,Semi-permanent,Yes,Yes,No,Yes
+501,Jaffna,7,41,Advanced Level,Self-employed,190745,9893,49755,Semi-permanent,No,No,Yes,Yes
+502,Colombo,1,62,Advanced Level,Government,142006,38573,72684,Temporary,Yes,Yes,Yes,No
+503,Colombo,1,34,No Schooling,Unemployed,235534,48874,38324,Permanent,Yes,No,No,Yes
+504,Kandy,4,41,Secondary,Private Sector,60066,85362,83929,Temporary,Yes,No,Yes,No
+505,Jaffna,4,56,Primary,Self-employed,246387,41367,6552,Semi-permanent,No,No,No,Yes
+506,Matara,3,61,Secondary,Unemployed,149445,29199,56272,Semi-permanent,Yes,No,Yes,No
+507,Kalutara,2,31,No Schooling,Private Sector,156407,82328,40853,Semi-permanent,No,Yes,No,Yes
+508,Colombo,5,66,Advanced Level,Self-employed,169813,65724,37924,Permanent,No,Yes,Yes,No
+509,Kandy,5,68,Advanced Level,Self-employed,25692,44405,79462,Permanent,No,Yes,Yes,Yes
+510,Jaffna,5,61,No Schooling,Private Sector,193367,23989,101387,Semi-permanent,Yes,No,No,Yes
+511,Kalutara,3,57,Primary,Private Sector,60541,36931,28889,Temporary,No,Yes,No,No
+512,Jaffna,4,37,Advanced Level,Government,180129,17290,110466,Temporary,Yes,Yes,No,Yes
+513,Kurunegala,6,64,Degree,Unemployed,81983,46367,59675,Semi-permanent,No,Yes,Yes,No
+514,Kandy,7,54,Advanced Level,Unemployed,165655,87878,78591,Temporary,Yes,Yes,No,No
+515,Kalutara,7,49,Degree,Government,168837,87481,75190,Semi-permanent,No,No,No,Yes
+516,Batticaloa,6,43,No Schooling,Self-employed,205359,84298,27634,Temporary,Yes,No,Yes,Yes
+517,Galle,3,61,No Schooling,Private Sector,169978,38133,37363,Semi-permanent,Yes,Yes,No,Yes
+518,Galle,6,49,Advanced Level,Private Sector,135747,35052,68752,Temporary,Yes,Yes,No,Yes
+519,Kalutara,5,33,Secondary,Private Sector,100103,48475,82004,Permanent,No,Yes,No,No
+520,Jaffna,2,25,Degree,Self-employed,225747,65656,61398,Semi-permanent,No,No,Yes,Yes
+521,Kandy,1,22,Primary,Private Sector,192597,12633,103458,Semi-permanent,Yes,No,Yes,Yes
+522,Galle,7,35,Advanced Level,Private Sector,184302,25304,45718,Temporary,No,No,Yes,Yes
+523,Kandy,4,26,Primary,Government,165592,54546,118627,Semi-permanent,No,Yes,No,No
+524,Galle,4,33,Advanced Level,Self-employed,231310,15008,87916,Semi-permanent,No,No,Yes,Yes
+525,Kurunegala,3,28,Secondary,Unemployed,198006,56291,31870,Semi-permanent,No,No,No,No
+526,Jaffna,4,34,Secondary,Government,40566,35405,42394,Permanent,No,No,No,Yes
+527,Kurunegala,5,40,Secondary,Government,88193,44386,57057,Permanent,No,No,No,No
+528,Galle,7,54,Secondary,Unemployed,249296,28827,84795,Temporary,No,No,Yes,Yes
+529,Batticaloa,6,21,No Schooling,Government,176206,41040,85409,Permanent,Yes,Yes,Yes,Yes
+530,Batticaloa,5,46,No Schooling,Self-employed,156417,68354,18016,Temporary,Yes,Yes,No,No
+531,Kurunegala,3,21,Degree,Private Sector,136015,86543,47137,Permanent,No,Yes,No,Yes
+532,Batticaloa,5,54,Primary,Self-employed,187257,26157,5153,Temporary,Yes,Yes,Yes,Yes
+533,Galle,6,37,Advanced Level,Unemployed,239021,43315,12853,Permanent,Yes,No,Yes,Yes
+534,Kalutara,2,33,Advanced Level,Unemployed,145956,43932,17379,Permanent,Yes,Yes,Yes,No
+535,Kurunegala,3,39,No Schooling,Government,85744,29164,20792,Temporary,No,Yes,No,Yes
+536,Gampaha,2,37,Advanced Level,Self-employed,48455,22414,43367,Semi-permanent,No,Yes,Yes,No
+537,Jaffna,1,29,No Schooling,Self-employed,174090,22327,23100,Semi-permanent,No,No,Yes,No
+538,Batticaloa,2,44,Degree,Unemployed,69219,8946,118089,Permanent,No,Yes,Yes,No
+539,Batticaloa,1,21,Primary,Self-employed,60991,22693,68456,Temporary,No,No,No,Yes
+540,Colombo,1,44,Degree,Unemployed,88616,35241,16049,Semi-permanent,Yes,No,Yes,No
+541,Matara,2,52,Secondary,Self-employed,102438,23540,5786,Temporary,No,No,No,No
+542,Kurunegala,3,55,Secondary,Self-employed,131841,80255,74904,Semi-permanent,Yes,Yes,No,Yes
+543,Anuradhapura,6,50,Secondary,Self-employed,155558,72757,35699,Temporary,No,No,No,No
+544,Batticaloa,5,33,Degree,Unemployed,184934,49203,52691,Permanent,Yes,Yes,Yes,No
+545,Jaffna,5,20,Advanced Level,Government,73870,33081,42040,Temporary,No,Yes,Yes,Yes
+546,Gampaha,6,65,Primary,Self-employed,101694,69861,97990,Semi-permanent,No,Yes,Yes,Yes
+547,Batticaloa,7,35,Secondary,Unemployed,58856,19350,62986,Permanent,No,No,No,No
+548,Gampaha,7,65,Secondary,Unemployed,116407,63512,43762,Temporary,No,No,Yes,Yes
+549,Galle,1,22,Secondary,Self-employed,246816,64809,28600,Semi-permanent,No,Yes,No,Yes
+550,Galle,1,54,Primary,Self-employed,232127,50832,99774,Permanent,No,No,Yes,Yes
+551,Matara,3,60,Secondary,Government,46379,36369,95777,Temporary,Yes,No,Yes,No
+552,Kalutara,4,25,Primary,Unemployed,79729,39728,24810,Semi-permanent,No,No,Yes,No
+553,Anuradhapura,2,44,Secondary,Unemployed,174450,25576,90703,Temporary,Yes,Yes,Yes,Yes
+554,Colombo,1,32,Degree,Private Sector,69353,37001,92347,Temporary,No,No,No,No
+555,Matara,5,53,Degree,Unemployed,196068,8390,110315,Permanent,Yes,No,No,Yes
+556,Kandy,3,27,Primary,Government,29031,53436,62204,Permanent,Yes,Yes,No,Yes
+557,Colombo,2,40,Degree,Private Sector,226144,19569,25085,Semi-permanent,Yes,No,No,Yes
+558,Kurunegala,3,53,Primary,Private Sector,80982,21029,51854,Permanent,Yes,Yes,Yes,Yes
+559,Jaffna,2,23,Degree,Private Sector,51683,30490,79797,Semi-permanent,Yes,No,No,Yes
+560,Kandy,2,44,Degree,Self-employed,129091,53875,89269,Temporary,Yes,No,No,No
+561,Kandy,6,34,Primary,Self-employed,132797,13867,44779,Temporary,No,No,No,No
+562,Matara,1,23,Advanced Level,Unemployed,163690,88820,61207,Semi-permanent,Yes,No,Yes,No
+563,Kalutara,3,64,Degree,Private Sector,21587,17121,99615,Temporary,No,No,No,No
+564,Matara,3,31,Secondary,Government,77790,9539,38980,Permanent,No,No,No,Yes
+565,Kurunegala,6,51,Advanced Level,Self-employed,46480,25027,61117,Temporary,Yes,Yes,Yes,Yes
+566,Batticaloa,5,51,Primary,Government,244602,82229,19141,Permanent,Yes,No,Yes,No
+567,Batticaloa,5,47,Advanced Level,Government,166599,16921,14344,Semi-permanent,No,No,No,No
+568,Kalutara,7,32,No Schooling,Self-employed,38569,58435,110008,Semi-permanent,Yes,No,No,Yes
+569,Kurunegala,1,50,No Schooling,Self-employed,26151,18310,20896,Temporary,Yes,Yes,Yes,Yes
+570,Kalutara,1,33,Degree,Self-employed,217166,71965,94353,Temporary,Yes,Yes,No,Yes
+571,Gampaha,4,39,Degree,Self-employed,205246,77922,34813,Permanent,Yes,Yes,Yes,No
+572,Batticaloa,6,37,Secondary,Private Sector,59739,20242,89431,Permanent,Yes,No,No,Yes
+573,Kandy,5,48,Advanced Level,Private Sector,47954,16947,70679,Temporary,Yes,No,No,Yes
+574,Anuradhapura,2,25,No Schooling,Private Sector,124373,79466,15681,Temporary,Yes,Yes,No,No
+575,Jaffna,3,51,Degree,Private Sector,181375,69816,77903,Semi-permanent,No,Yes,No,No
+576,Kurunegala,1,48,Advanced Level,Unemployed,49700,56785,8228,Semi-permanent,Yes,Yes,No,No
+577,Colombo,3,62,Degree,Private Sector,239108,8507,9582,Semi-permanent,No,No,Yes,Yes
+578,Kalutara,3,21,Degree,Self-employed,138728,74972,83683,Temporary,No,Yes,Yes,Yes
+579,Jaffna,4,42,No Schooling,Government,213640,35151,16397,Temporary,No,No,No,No
+580,Colombo,5,38,No Schooling,Private Sector,81788,19618,43799,Temporary,No,No,No,Yes
+581,Jaffna,1,50,Degree,Unemployed,86045,82286,42011,Semi-permanent,Yes,No,No,Yes
+582,Anuradhapura,3,24,Primary,Self-employed,183914,24122,84183,Temporary,No,Yes,Yes,Yes
+583,Colombo,1,38,Degree,Government,159972,15354,98254,Permanent,No,No,Yes,No
+584,Matara,2,53,Degree,Government,142992,38979,49264,Temporary,No,Yes,Yes,No
+585,Galle,4,29,Secondary,Private Sector,95059,87376,47317,Temporary,No,Yes,Yes,Yes
+586,Matara,2,44,Secondary,Government,16881,60774,52914,Temporary,No,Yes,Yes,Yes
+587,Batticaloa,1,21,Secondary,Private Sector,179109,13037,89633,Temporary,Yes,Yes,Yes,Yes
+588,Galle,7,30,Primary,Private Sector,147702,36633,107489,Temporary,Yes,No,Yes,Yes
+589,Matara,1,69,Primary,Self-employed,35789,32495,50254,Permanent,No,No,Yes,No
+590,Galle,5,50,Degree,Self-employed,141083,72550,45096,Permanent,Yes,No,No,No
+591,Galle,3,34,Secondary,Unemployed,103059,89384,58785,Temporary,Yes,No,Yes,Yes
+592,Kandy,3,28,Primary,Self-employed,229566,44483,57344,Semi-permanent,No,Yes,Yes,Yes
+593,Kalutara,2,42,No Schooling,Self-employed,61151,81373,119988,Temporary,No,Yes,Yes,No
+594,Kalutara,4,38,Degree,Private Sector,194992,42069,87643,Temporary,No,Yes,Yes,Yes
+595,Kandy,7,28,Advanced Level,Self-employed,124388,15370,73546,Temporary,Yes,Yes,No,No
+596,Jaffna,6,54,Degree,Private Sector,213303,79947,76091,Semi-permanent,No,No,Yes,Yes
+597,Gampaha,3,40,Advanced Level,Private Sector,226429,47133,70603,Semi-permanent,Yes,Yes,No,No
+598,Jaffna,5,28,Secondary,Self-employed,18262,8692,33412,Semi-permanent,Yes,No,No,Yes
+599,Colombo,2,47,Advanced Level,Unemployed,81981,36926,115489,Permanent,Yes,Yes,No,Yes
+600,Colombo,2,65,Secondary,Unemployed,135951,81984,56658,Semi-permanent,No,Yes,Yes,No
+601,Galle,6,26,No Schooling,Government,138099,51390,104841,Permanent,Yes,Yes,Yes,No
+602,Matara,5,35,Advanced Level,Government,96972,57593,54549,Permanent,No,Yes,Yes,Yes
+603,Matara,4,35,Degree,Self-employed,90485,83609,16549,Semi-permanent,No,No,No,Yes
+604,Kalutara,5,52,Secondary,Unemployed,69722,13209,76216,Semi-permanent,No,No,No,No
+605,Kurunegala,4,23,Degree,Private Sector,104499,14533,30739,Semi-permanent,No,No,No,No
+606,Jaffna,5,23,Primary,Government,196890,15211,26209,Permanent,No,No,No,Yes
+607,Batticaloa,5,58,Secondary,Private Sector,176004,17927,112051,Temporary,Yes,Yes,Yes,Yes
+608,Anuradhapura,1,59,Advanced Level,Government,21901,85463,92968,Semi-permanent,Yes,Yes,Yes,No
+609,Matara,2,36,Secondary,Self-employed,132473,32594,20116,Semi-permanent,Yes,No,Yes,No
+610,Anuradhapura,5,56,Degree,Unemployed,245095,82852,25045,Semi-permanent,Yes,No,No,No
+611,Galle,6,58,No Schooling,Government,23597,85713,31327,Permanent,Yes,Yes,No,No
+612,Anuradhapura,5,48,Secondary,Unemployed,144631,84382,40709,Permanent,No,Yes,Yes,No
+613,Batticaloa,3,55,Advanced Level,Private Sector,78909,15933,48617,Temporary,No,No,Yes,Yes
+614,Kandy,2,57,Primary,Self-employed,87391,48696,65139,Semi-permanent,Yes,No,No,Yes
+615,Batticaloa,3,58,No Schooling,Unemployed,230286,73449,31905,Permanent,Yes,No,Yes,No
+616,Anuradhapura,2,69,Primary,Self-employed,154335,75616,69148,Temporary,Yes,Yes,Yes,Yes
+617,Batticaloa,3,56,Secondary,Unemployed,78293,14089,77603,Semi-permanent,No,No,No,Yes
+618,Gampaha,5,54,Degree,Private Sector,171877,64548,103095,Permanent,No,No,No,No
+619,Galle,5,26,Degree,Private Sector,237751,34123,47919,Semi-permanent,No,No,No,Yes
+620,Jaffna,1,46,Advanced Level,Self-employed,26874,15797,88521,Semi-permanent,Yes,No,Yes,Yes
+621,Kandy,6,47,Degree,Private Sector,239137,58013,97905,Permanent,Yes,No,No,Yes
+622,Matara,3,41,No Schooling,Government,101402,16346,88400,Permanent,Yes,Yes,Yes,No
+623,Colombo,4,33,Degree,Unemployed,29079,41672,93150,Permanent,Yes,No,Yes,No
+624,Jaffna,1,26,Advanced Level,Private Sector,195922,25653,63446,Semi-permanent,No,Yes,No,Yes
+625,Colombo,3,56,Secondary,Government,87779,57556,57428,Semi-permanent,Yes,No,Yes,Yes
+626,Galle,3,41,Secondary,Self-employed,110408,34140,52894,Temporary,Yes,No,No,Yes
+627,Kandy,1,24,Degree,Government,155090,9184,86149,Semi-permanent,Yes,No,No,Yes
+628,Kalutara,5,21,Primary,Self-employed,135606,42493,11447,Permanent,No,Yes,Yes,Yes
+629,Matara,3,46,Secondary,Self-employed,195572,52148,10499,Semi-permanent,No,Yes,Yes,Yes
+630,Gampaha,5,40,Degree,Unemployed,135062,32846,44041,Temporary,Yes,Yes,No,No
+631,Kalutara,1,57,Advanced Level,Unemployed,27100,30195,36315,Temporary,No,No,No,Yes
+632,Galle,5,34,Degree,Government,72021,13606,6299,Permanent,No,No,No,Yes
+633,Jaffna,2,40,Secondary,Unemployed,165872,11956,110005,Permanent,No,Yes,No,No
+634,Gampaha,4,29,Advanced Level,Unemployed,143126,24555,9994,Temporary,No,Yes,No,Yes
+635,Batticaloa,7,42,Degree,Unemployed,209472,26690,100414,Temporary,No,No,No,Yes
+636,Anuradhapura,3,58,No Schooling,Government,107446,66502,86163,Temporary,Yes,Yes,Yes,Yes
+637,Gampaha,6,24,Advanced Level,Private Sector,44437,56849,12489,Permanent,Yes,No,Yes,Yes
+638,Galle,4,20,No Schooling,Unemployed,249196,34347,96647,Temporary,Yes,Yes,Yes,No
+639,Kurunegala,7,32,Primary,Unemployed,222609,57056,37355,Temporary,No,Yes,Yes,Yes
+640,Anuradhapura,5,40,Advanced Level,Government,192747,71851,78805,Permanent,No,Yes,No,No
+641,Colombo,3,45,No Schooling,Private Sector,166014,89502,73367,Semi-permanent,No,No,Yes,Yes
+642,Matara,5,69,Secondary,Unemployed,35862,89418,114906,Semi-permanent,No,No,Yes,Yes
+643,Colombo,2,64,Secondary,Self-employed,26669,78211,82355,Temporary,Yes,Yes,No,No
+644,Gampaha,1,40,Primary,Government,136219,49850,95349,Semi-permanent,Yes,No,Yes,Yes
+645,Colombo,3,37,Advanced Level,Unemployed,199844,86545,92173,Semi-permanent,Yes,No,No,No
+646,Galle,7,56,Advanced Level,Unemployed,30916,35843,6996,Semi-permanent,Yes,No,No,No
+647,Batticaloa,7,64,Advanced Level,Self-employed,25878,70320,49387,Semi-permanent,Yes,No,No,No
+648,Jaffna,2,51,Primary,Self-employed,17985,37793,119965,Temporary,Yes,Yes,No,Yes
+649,Matara,2,55,Advanced Level,Government,243977,47516,8089,Semi-permanent,No,No,No,Yes
+650,Colombo,3,36,Secondary,Government,219720,25857,103827,Semi-permanent,No,No,Yes,Yes
+651,Colombo,5,54,No Schooling,Self-employed,56235,27627,25659,Permanent,Yes,Yes,Yes,Yes
+652,Gampaha,6,68,Secondary,Government,33931,69822,50178,Temporary,No,No,Yes,No
+653,Jaffna,7,30,Secondary,Self-employed,107876,60248,100965,Permanent,Yes,No,No,Yes
+654,Kalutara,7,40,No Schooling,Unemployed,15336,63798,86268,Permanent,Yes,No,Yes,Yes
+655,Colombo,2,45,Secondary,Self-employed,57933,52116,90042,Temporary,No,Yes,Yes,No
+656,Galle,4,23,Primary,Self-employed,230971,83318,111471,Semi-permanent,Yes,Yes,Yes,No
+657,Kurunegala,2,53,No Schooling,Private Sector,60536,36557,75726,Permanent,Yes,No,Yes,Yes
+658,Matara,6,67,Secondary,Self-employed,84504,79334,75111,Temporary,Yes,No,No,No
+659,Colombo,5,37,Degree,Self-employed,114214,83163,111031,Semi-permanent,No,Yes,Yes,No
+660,Galle,5,59,Secondary,Private Sector,197220,86002,118682,Temporary,No,Yes,No,No
+661,Galle,4,54,Primary,Government,128936,50614,39565,Permanent,No,Yes,No,No
+662,Matara,7,60,Advanced Level,Private Sector,31279,20720,105435,Semi-permanent,No,No,Yes,No
+663,Kalutara,2,48,Secondary,Unemployed,214737,65608,94242,Semi-permanent,Yes,No,No,Yes
+664,Galle,5,48,Advanced Level,Private Sector,118751,80095,118204,Temporary,No,Yes,No,Yes
+665,Kurunegala,6,57,Degree,Unemployed,119433,43892,27884,Semi-permanent,No,No,No,Yes
+666,Galle,3,61,Secondary,Government,86386,85242,22199,Permanent,No,No,No,Yes
+667,Galle,1,40,No Schooling,Private Sector,101124,85606,65038,Permanent,Yes,No,No,Yes
+668,Galle,1,61,Advanced Level,Private Sector,120750,8924,62786,Permanent,No,No,No,Yes
+669,Batticaloa,1,32,Degree,Government,92485,59322,114636,Temporary,No,No,No,Yes
+670,Batticaloa,7,68,No Schooling,Unemployed,89055,34478,109970,Semi-permanent,Yes,No,Yes,No
+671,Kalutara,2,60,No Schooling,Private Sector,106911,79042,54294,Semi-permanent,Yes,No,Yes,Yes
+672,Colombo,4,36,No Schooling,Unemployed,113618,54418,83015,Semi-permanent,Yes,Yes,No,Yes
+673,Galle,5,28,No Schooling,Private Sector,223345,70217,39178,Permanent,Yes,Yes,No,Yes
+674,Jaffna,3,60,Secondary,Self-employed,212742,88846,17665,Semi-permanent,No,Yes,Yes,No
+675,Colombo,6,20,Secondary,Private Sector,222546,81762,5534,Permanent,Yes,Yes,Yes,Yes
+676,Kalutara,3,21,Secondary,Government,200100,19781,96828,Semi-permanent,No,Yes,Yes,Yes
+677,Kandy,6,67,Degree,Government,236094,13515,41132,Permanent,No,Yes,Yes,No
+678,Colombo,7,48,Degree,Unemployed,128892,44133,41110,Semi-permanent,No,Yes,No,Yes
+679,Colombo,2,52,Degree,Private Sector,237704,84946,63754,Temporary,No,Yes,No,Yes
+680,Anuradhapura,1,29,Primary,Unemployed,86128,17095,68580,Temporary,No,Yes,Yes,No
+681,Gampaha,2,69,Degree,Unemployed,164180,28470,27469,Permanent,Yes,No,Yes,Yes
+682,Anuradhapura,7,59,Secondary,Self-employed,67495,51129,69016,Permanent,No,No,Yes,No
+683,Kurunegala,4,40,Secondary,Self-employed,97806,16531,51233,Semi-permanent,No,Yes,Yes,Yes
+684,Batticaloa,4,47,Primary,Government,108185,45038,107804,Semi-permanent,No,No,No,Yes
+685,Batticaloa,7,30,Primary,Unemployed,222605,50674,71708,Temporary,Yes,No,Yes,Yes
+686,Gampaha,6,53,Degree,Government,245097,37831,63232,Semi-permanent,No,Yes,Yes,No
+687,Matara,5,27,Advanced Level,Private Sector,202902,65174,98450,Permanent,No,Yes,Yes,No
+688,Matara,5,41,Primary,Unemployed,220712,19279,91437,Permanent,Yes,Yes,No,No
+689,Kalutara,6,27,No Schooling,Unemployed,198581,46220,111311,Permanent,No,No,No,Yes
+690,Gampaha,4,68,Secondary,Private Sector,212478,68610,39409,Permanent,No,No,No,Yes
+691,Colombo,4,34,No Schooling,Private Sector,240292,60719,24324,Permanent,Yes,Yes,Yes,No
+692,Matara,4,36,Secondary,Government,185591,61051,13738,Temporary,No,No,Yes,No
+693,Galle,2,42,Secondary,Government,64649,80013,108030,Temporary,No,No,Yes,Yes
+694,Jaffna,4,43,Primary,Private Sector,180596,64652,115093,Permanent,No,No,No,Yes
+695,Colombo,3,64,Primary,Government,242565,73524,29054,Semi-permanent,No,Yes,No,Yes
+696,Kurunegala,1,38,No Schooling,Private Sector,179957,14470,34709,Permanent,No,No,Yes,Yes
+697,Galle,4,24,Secondary,Unemployed,190441,75598,114321,Temporary,Yes,No,Yes,No
+698,Galle,6,51,No Schooling,Unemployed,247204,49798,90643,Permanent,Yes,No,No,Yes
+699,Gampaha,1,63,Advanced Level,Self-employed,110402,61473,5363,Temporary,Yes,No,Yes,Yes
+700,Kalutara,2,20,No Schooling,Unemployed,45676,27880,15358,Temporary,No,No,Yes,Yes
+701,Kurunegala,6,42,Degree,Private Sector,79093,52439,106613,Permanent,No,No,Yes,Yes
+702,Matara,1,56,No Schooling,Government,193836,22308,8240,Permanent,No,No,No,Yes
+703,Gampaha,6,27,Degree,Self-employed,196871,43081,77201,Semi-permanent,Yes,Yes,Yes,Yes
+704,Matara,2,32,Degree,Government,94414,83242,50689,Temporary,No,Yes,Yes,Yes
+705,Gampaha,3,27,Degree,Private Sector,108095,58383,6936,Semi-permanent,No,No,Yes,No
+706,Gampaha,2,42,Advanced Level,Unemployed,87307,17837,117272,Permanent,No,Yes,Yes,No
+707,Gampaha,2,62,No Schooling,Self-employed,228134,60151,96074,Temporary,Yes,No,No,No
+708,Kalutara,6,20,No Schooling,Private Sector,110432,44824,48965,Semi-permanent,Yes,No,No,Yes
+709,Gampaha,7,64,Advanced Level,Self-employed,46923,41073,82534,Semi-permanent,No,No,No,No
+710,Kandy,5,43,Secondary,Self-employed,132449,34299,5882,Semi-permanent,No,Yes,Yes,Yes
+711,Jaffna,4,54,Primary,Unemployed,247811,66861,25224,Permanent,No,No,No,Yes
+712,Matara,4,43,No Schooling,Private Sector,224460,38063,110227,Permanent,Yes,No,Yes,Yes
+713,Colombo,3,36,Primary,Government,62574,77453,117012,Permanent,Yes,Yes,No,Yes
+714,Anuradhapura,3,24,Advanced Level,Self-employed,189463,76472,35825,Temporary,Yes,Yes,Yes,No
+715,Kurunegala,4,39,Secondary,Self-employed,136757,22506,75740,Permanent,No,No,No,Yes
+716,Batticaloa,5,40,Secondary,Government,68664,87854,33885,Temporary,Yes,Yes,No,Yes
+717,Kalutara,4,59,Secondary,Private Sector,82384,34026,45056,Semi-permanent,No,Yes,No,No
+718,Colombo,7,50,Advanced Level,Self-employed,46027,35672,8203,Semi-permanent,No,No,Yes,No
+719,Galle,5,65,Degree,Self-employed,181536,46417,65241,Permanent,Yes,No,Yes,No
+720,Kandy,3,55,Degree,Self-employed,49485,60413,7244,Semi-permanent,No,No,Yes,Yes
+721,Batticaloa,1,30,Primary,Private Sector,165528,73066,103322,Permanent,Yes,Yes,No,No
+722,Anuradhapura,6,34,Degree,Private Sector,220867,67213,73619,Temporary,No,Yes,Yes,Yes
+723,Colombo,7,38,Degree,Government,50554,58971,26584,Semi-permanent,No,Yes,Yes,Yes
+724,Batticaloa,7,26,Secondary,Private Sector,61922,35281,13521,Permanent,Yes,No,Yes,No
+725,Colombo,3,47,Secondary,Private Sector,28409,36091,55017,Semi-permanent,No,Yes,Yes,No
+726,Kandy,3,62,Primary,Unemployed,215399,58494,38541,Semi-permanent,No,Yes,Yes,No
+727,Anuradhapura,2,24,No Schooling,Government,237472,26610,34063,Permanent,No,No,Yes,Yes
+728,Galle,7,24,Primary,Self-employed,51639,9079,75268,Semi-permanent,No,No,No,Yes
+729,Gampaha,2,49,Primary,Private Sector,246182,54751,69952,Semi-permanent,No,No,No,Yes
+730,Matara,2,51,Advanced Level,Self-employed,209699,63432,98054,Semi-permanent,No,Yes,Yes,Yes
+731,Galle,6,27,Advanced Level,Self-employed,229496,38951,44563,Semi-permanent,No,No,No,Yes
+732,Gampaha,2,29,Primary,Unemployed,34692,88863,44752,Temporary,No,Yes,No,Yes
+733,Kalutara,5,57,Primary,Private Sector,104037,86291,100233,Semi-permanent,Yes,Yes,Yes,No
+734,Jaffna,4,66,Primary,Government,224912,67872,7567,Semi-permanent,Yes,No,Yes,Yes
+735,Kurunegala,1,51,Degree,Private Sector,200272,15235,21121,Permanent,No,No,No,No
+736,Kurunegala,3,67,Advanced Level,Self-employed,239135,70712,6674,Temporary,No,No,Yes,No
+737,Matara,5,47,Primary,Government,203487,29473,81411,Permanent,Yes,No,No,No
+738,Anuradhapura,1,36,Secondary,Private Sector,33074,75567,114876,Permanent,No,No,No,No
+739,Kandy,7,50,Secondary,Self-employed,161621,87823,71275,Permanent,Yes,Yes,No,No
+740,Anuradhapura,7,27,Degree,Self-employed,44963,40230,72081,Temporary,Yes,Yes,Yes,Yes
+741,Kandy,7,59,Degree,Unemployed,237528,76876,34140,Permanent,Yes,Yes,No,Yes
+742,Anuradhapura,5,44,No Schooling,Unemployed,242434,48644,14327,Permanent,No,No,Yes,Yes
+743,Jaffna,5,28,No Schooling,Unemployed,247679,56664,75663,Permanent,No,Yes,Yes,Yes
+744,Kalutara,3,21,No Schooling,Self-employed,67265,53203,28331,Semi-permanent,No,No,Yes,No
+745,Kalutara,4,34,Degree,Private Sector,31061,74677,28004,Permanent,Yes,No,Yes,No
+746,Gampaha,2,69,Degree,Unemployed,204298,33425,112369,Temporary,Yes,Yes,Yes,No
+747,Batticaloa,7,22,Degree,Private Sector,174882,77806,15492,Temporary,Yes,Yes,No,Yes
+748,Kalutara,6,68,Secondary,Unemployed,206078,50814,59797,Semi-permanent,No,No,Yes,Yes
+749,Kalutara,4,55,Degree,Government,128502,78219,63095,Temporary,Yes,Yes,Yes,Yes
+750,Galle,6,23,Secondary,Government,37800,57646,18749,Temporary,Yes,No,Yes,Yes
+751,Galle,3,33,No Schooling,Unemployed,131192,47884,68217,Semi-permanent,No,Yes,Yes,No
+752,Gampaha,3,60,No Schooling,Self-employed,122228,77322,94044,Permanent,Yes,Yes,Yes,No
+753,Batticaloa,3,60,No Schooling,Unemployed,221548,29650,14045,Semi-permanent,Yes,Yes,No,Yes
+754,Matara,1,44,Primary,Unemployed,215532,17190,25116,Permanent,No,Yes,Yes,Yes
+755,Galle,6,69,Primary,Self-employed,203839,46196,23667,Permanent,No,Yes,Yes,No
+756,Matara,4,29,Advanced Level,Government,43054,47449,80057,Temporary,Yes,No,No,No
+757,Colombo,4,40,Advanced Level,Private Sector,221391,47661,79205,Semi-permanent,No,Yes,Yes,No
+758,Galle,5,55,Advanced Level,Unemployed,248861,37709,32302,Temporary,Yes,Yes,No,No
+759,Jaffna,5,31,Primary,Self-employed,191469,88428,16283,Temporary,No,Yes,No,Yes
+760,Batticaloa,7,46,Primary,Unemployed,28233,83179,35935,Permanent,Yes,No,No,No
+761,Gampaha,5,59,Advanced Level,Self-employed,236092,17943,77534,Temporary,No,No,No,No
+762,Colombo,3,21,Advanced Level,Private Sector,171140,51240,99342,Semi-permanent,Yes,No,Yes,No
+763,Batticaloa,4,32,Degree,Private Sector,80727,53760,36624,Temporary,No,No,Yes,No
+764,Jaffna,6,51,Advanced Level,Government,105610,29042,18440,Temporary,No,No,No,Yes
+765,Batticaloa,3,50,Degree,Self-employed,85453,51894,116001,Permanent,No,Yes,No,Yes
+766,Jaffna,1,35,Secondary,Self-employed,119135,14869,51501,Semi-permanent,No,Yes,Yes,Yes
+767,Jaffna,5,51,Primary,Government,171904,69078,92333,Temporary,No,Yes,No,Yes
+768,Matara,3,51,Advanced Level,Government,123464,64759,6269,Permanent,No,No,No,Yes
+769,Anuradhapura,3,53,Primary,Self-employed,232314,52306,12868,Temporary,No,No,No,Yes
+770,Colombo,1,30,Primary,Government,28682,63371,35251,Semi-permanent,Yes,Yes,Yes,No
+771,Batticaloa,2,29,Primary,Private Sector,238370,28918,82909,Temporary,Yes,No,No,No
+772,Kandy,4,34,Secondary,Unemployed,169455,36379,89523,Temporary,No,No,Yes,No
+773,Colombo,6,36,No Schooling,Private Sector,73160,10962,43729,Permanent,No,No,Yes,No
+774,Anuradhapura,7,59,Advanced Level,Government,239404,21851,20734,Temporary,Yes,Yes,Yes,Yes
+775,Colombo,2,37,No Schooling,Self-employed,38666,53747,47429,Permanent,Yes,Yes,No,No
+776,Kalutara,5,28,No Schooling,Self-employed,73817,60349,46337,Semi-permanent,No,No,No,Yes
+777,Kandy,3,44,No Schooling,Private Sector,106198,78832,45325,Temporary,Yes,No,Yes,No
+778,Anuradhapura,1,59,Primary,Self-employed,180714,64356,88600,Semi-permanent,Yes,No,Yes,No
+779,Matara,1,33,Degree,Government,56830,22745,67514,Semi-permanent,No,No,Yes,No
+780,Batticaloa,4,44,Primary,Private Sector,249139,13730,13433,Temporary,No,Yes,No,Yes
+781,Kurunegala,2,69,Primary,Self-employed,25234,21921,118957,Permanent,No,No,No,No
+782,Anuradhapura,7,41,No Schooling,Unemployed,72616,79138,14111,Semi-permanent,Yes,Yes,Yes,Yes
+783,Gampaha,4,49,Primary,Unemployed,24221,27023,108986,Semi-permanent,No,Yes,Yes,Yes
+784,Batticaloa,3,39,No Schooling,Government,157482,53349,68753,Temporary,No,Yes,No,No
+785,Anuradhapura,4,40,Degree,Self-employed,226127,89533,118783,Temporary,Yes,No,Yes,Yes
+786,Kalutara,6,63,Advanced Level,Government,207485,49979,85583,Temporary,No,Yes,No,Yes
+787,Kurunegala,1,51,No Schooling,Private Sector,16051,30837,78620,Temporary,Yes,Yes,No,No
+788,Kalutara,1,65,Degree,Unemployed,125529,22997,26751,Temporary,Yes,No,Yes,No
+789,Kurunegala,5,68,Advanced Level,Private Sector,221373,53039,21453,Temporary,Yes,No,Yes,No
+790,Gampaha,5,40,Secondary,Self-employed,91918,28923,90844,Permanent,Yes,No,No,No
+791,Batticaloa,7,54,No Schooling,Government,93116,16876,43968,Semi-permanent,Yes,Yes,No,No
+792,Matara,3,51,No Schooling,Government,137226,68973,35077,Permanent,Yes,No,No,No
+793,Kalutara,6,49,Secondary,Government,202635,10887,113582,Permanent,No,Yes,No,Yes
+794,Kalutara,2,58,Secondary,Private Sector,243931,71723,39775,Temporary,No,Yes,No,No
+795,Jaffna,4,68,No Schooling,Unemployed,59757,50422,63144,Semi-permanent,No,No,Yes,No
+796,Kurunegala,7,31,Secondary,Private Sector,136008,59413,53570,Permanent,Yes,Yes,No,Yes
+797,Galle,3,60,Primary,Private Sector,223547,10841,51097,Temporary,No,Yes,No,No
+798,Batticaloa,5,66,Advanced Level,Self-employed,197329,36756,29503,Temporary,Yes,Yes,No,Yes
+799,Kurunegala,4,37,Advanced Level,Self-employed,241572,79576,7779,Semi-permanent,No,Yes,Yes,No
+800,Jaffna,5,40,Advanced Level,Self-employed,146379,18304,91840,Permanent,Yes,No,Yes,No
+801,Colombo,4,32,Primary,Unemployed,71889,38341,5755,Permanent,No,Yes,No,Yes
+802,Kurunegala,2,40,Secondary,Unemployed,214967,12758,44263,Permanent,Yes,No,No,No
+803,Matara,3,27,Degree,Self-employed,241256,25010,113491,Temporary,No,Yes,Yes,Yes
+804,Batticaloa,4,65,Secondary,Self-employed,50944,68758,60087,Semi-permanent,Yes,Yes,Yes,No
+805,Jaffna,6,59,No Schooling,Unemployed,114555,39658,47281,Semi-permanent,No,No,Yes,No
+806,Colombo,7,65,Advanced Level,Government,53134,57002,56482,Permanent,Yes,Yes,Yes,Yes
+807,Kandy,1,26,Secondary,Unemployed,173395,9375,59857,Temporary,No,Yes,No,No
+808,Jaffna,6,42,Degree,Unemployed,217834,30092,22400,Permanent,No,Yes,Yes,No
+809,Kandy,6,63,No Schooling,Unemployed,233297,8490,45115,Semi-permanent,No,Yes,No,Yes
+810,Batticaloa,7,51,Primary,Self-employed,242579,11729,19249,Temporary,Yes,Yes,No,No
+811,Kalutara,1,30,Primary,Government,40954,13974,118183,Permanent,Yes,Yes,Yes,Yes
+812,Jaffna,6,41,Degree,Unemployed,201093,29398,51825,Permanent,Yes,No,Yes,No
+813,Gampaha,4,41,No Schooling,Self-employed,104959,42650,115361,Temporary,Yes,No,Yes,Yes
+814,Kandy,4,62,Advanced Level,Private Sector,241999,29292,29600,Semi-permanent,Yes,No,Yes,No
+815,Matara,4,44,Secondary,Private Sector,225938,11159,42706,Temporary,No,Yes,No,Yes
+816,Gampaha,1,41,No Schooling,Unemployed,216499,70766,24222,Permanent,Yes,Yes,No,Yes
+817,Anuradhapura,6,47,Primary,Private Sector,19992,25065,104041,Permanent,No,Yes,No,No
+818,Anuradhapura,1,48,Degree,Government,16961,29638,109504,Permanent,No,No,Yes,No
+819,Colombo,4,32,Degree,Private Sector,27497,9073,46139,Permanent,Yes,Yes,No,Yes
+820,Kalutara,7,37,Secondary,Private Sector,178623,54511,119919,Semi-permanent,No,No,Yes,No
+821,Batticaloa,6,21,Degree,Government,222456,37320,46302,Semi-permanent,Yes,Yes,No,Yes
+822,Jaffna,6,48,Degree,Unemployed,201827,77876,99684,Permanent,Yes,Yes,Yes,No
+823,Galle,5,40,No Schooling,Unemployed,28255,42924,92838,Semi-permanent,Yes,Yes,No,No
+824,Matara,5,34,Advanced Level,Government,150639,89720,73159,Semi-permanent,No,No,No,Yes
+825,Kandy,2,46,Secondary,Government,63847,48734,13646,Semi-permanent,Yes,Yes,Yes,Yes
+826,Batticaloa,3,69,No Schooling,Government,194075,76116,18543,Permanent,Yes,No,No,No
+827,Gampaha,5,50,Advanced Level,Private Sector,35389,48025,99496,Temporary,Yes,Yes,No,No
+828,Anuradhapura,1,34,No Schooling,Government,190595,10159,27785,Temporary,No,Yes,Yes,No
+829,Matara,5,42,No Schooling,Self-employed,138802,56940,83353,Temporary,Yes,No,Yes,No
+830,Galle,2,43,Degree,Private Sector,76576,87436,36406,Permanent,No,Yes,Yes,No
+831,Jaffna,6,63,Advanced Level,Unemployed,58919,84976,93992,Semi-permanent,No,Yes,Yes,Yes
+832,Colombo,2,32,Secondary,Unemployed,228175,22678,56428,Semi-permanent,Yes,Yes,Yes,No
+833,Galle,6,41,Secondary,Unemployed,18358,69075,28777,Permanent,No,Yes,No,No
+834,Matara,7,62,Advanced Level,Private Sector,103535,55204,62939,Permanent,No,No,Yes,Yes
+835,Galle,7,56,Degree,Self-employed,222596,20021,58026,Temporary,Yes,No,No,Yes
+836,Matara,6,52,Primary,Government,120982,14772,91450,Temporary,Yes,Yes,No,Yes
+837,Matara,3,22,No Schooling,Government,243129,75163,34553,Permanent,Yes,Yes,Yes,No
+838,Kurunegala,5,38,Degree,Unemployed,20698,81755,28548,Temporary,No,No,No,Yes
+839,Kandy,1,42,Advanced Level,Unemployed,81809,31464,68221,Semi-permanent,Yes,Yes,No,Yes
+840,Anuradhapura,1,48,No Schooling,Private Sector,108079,59137,42265,Permanent,No,No,Yes,Yes
+841,Kurunegala,4,49,Secondary,Self-employed,70805,38232,45701,Permanent,No,Yes,No,Yes
+842,Jaffna,6,58,Primary,Government,177421,69497,56287,Semi-permanent,No,No,Yes,No
+843,Kurunegala,1,63,Secondary,Private Sector,222849,82024,11727,Semi-permanent,No,No,Yes,No
+844,Kalutara,3,66,Advanced Level,Government,196320,59448,115460,Semi-permanent,No,No,Yes,No
+845,Kalutara,6,44,No Schooling,Unemployed,90033,8901,55717,Temporary,Yes,No,No,Yes
+846,Anuradhapura,3,56,Advanced Level,Government,113239,10881,37427,Permanent,Yes,Yes,No,Yes
+847,Galle,1,66,No Schooling,Self-employed,145407,37863,21692,Temporary,No,Yes,No,Yes
+848,Kandy,1,27,Degree,Self-employed,59041,13622,36625,Semi-permanent,No,No,No,Yes
+849,Anuradhapura,4,61,Primary,Unemployed,46954,9378,29918,Temporary,Yes,No,Yes,Yes
+850,Matara,1,35,Degree,Self-employed,23002,79186,111931,Semi-permanent,Yes,No,No,Yes
+851,Gampaha,6,27,Degree,Self-employed,84783,53201,46136,Temporary,No,No,Yes,No
+852,Kandy,7,20,Advanced Level,Private Sector,122524,67251,119826,Temporary,No,Yes,No,No
+853,Kandy,6,63,Primary,Government,233306,80572,119881,Semi-permanent,Yes,No,No,Yes
+854,Matara,6,24,No Schooling,Unemployed,139857,47255,57409,Temporary,Yes,No,No,No
+855,Matara,4,22,No Schooling,Unemployed,34738,71212,20577,Permanent,No,No,No,Yes
+856,Colombo,4,20,Secondary,Unemployed,25703,58210,90155,Temporary,Yes,No,No,Yes
+857,Anuradhapura,1,23,No Schooling,Unemployed,128776,30499,116776,Temporary,Yes,No,Yes,No
+858,Matara,2,59,Advanced Level,Unemployed,195494,59628,104246,Permanent,No,No,No,Yes
+859,Kalutara,2,54,Degree,Self-employed,229178,69360,107924,Semi-permanent,No,No,No,No
+860,Jaffna,4,51,Degree,Private Sector,207971,12603,86731,Permanent,No,Yes,No,Yes
+861,Gampaha,1,61,Degree,Unemployed,158464,20632,32689,Temporary,Yes,No,No,Yes
+862,Anuradhapura,2,53,Primary,Private Sector,59724,38607,16154,Semi-permanent,No,No,Yes,No
+863,Batticaloa,1,62,No Schooling,Private Sector,47299,73756,109657,Temporary,Yes,No,No,Yes
+864,Kalutara,1,44,Advanced Level,Self-employed,30641,54994,99948,Temporary,No,Yes,Yes,Yes
+865,Galle,1,29,Primary,Unemployed,94534,71382,26341,Permanent,No,Yes,No,Yes
+866,Matara,5,40,Secondary,Self-employed,21305,78354,102554,Permanent,Yes,Yes,Yes,No
+867,Batticaloa,6,65,Advanced Level,Unemployed,244334,64344,79681,Semi-permanent,Yes,No,Yes,Yes
+868,Matara,1,58,Advanced Level,Self-employed,33782,61775,112798,Semi-permanent,No,No,Yes,Yes
+869,Kandy,5,46,Advanced Level,Private Sector,93257,15349,51330,Semi-permanent,No,No,Yes,Yes
+870,Kalutara,4,46,Degree,Unemployed,92963,79154,92759,Temporary,Yes,Yes,Yes,No
+871,Kandy,2,21,Advanced Level,Government,136987,35464,73416,Permanent,No,No,No,No
+872,Colombo,6,60,No Schooling,Private Sector,166638,50624,91807,Permanent,Yes,Yes,Yes,No
+873,Kandy,7,67,Advanced Level,Government,139591,45344,38313,Permanent,Yes,Yes,No,No
+874,Colombo,2,32,Degree,Private Sector,82766,32299,51900,Semi-permanent,No,Yes,Yes,No
+875,Colombo,6,28,Advanced Level,Self-employed,21511,55975,83840,Permanent,Yes,Yes,Yes,Yes
+876,Batticaloa,7,55,Secondary,Unemployed,129816,9462,39695,Permanent,Yes,Yes,No,No
+877,Matara,2,41,Secondary,Private Sector,172249,89441,35225,Permanent,Yes,No,Yes,No
+878,Galle,6,61,Degree,Self-employed,19765,89788,91072,Semi-permanent,No,No,Yes,Yes
+879,Kandy,2,45,No Schooling,Unemployed,166426,48581,101367,Permanent,Yes,Yes,Yes,No
+880,Kalutara,2,31,No Schooling,Unemployed,38929,79289,54156,Semi-permanent,No,No,Yes,Yes
+881,Colombo,7,36,Primary,Private Sector,174892,22175,82209,Permanent,No,No,No,No
+882,Matara,2,33,Degree,Unemployed,126576,14191,92453,Permanent,No,Yes,Yes,Yes
+883,Gampaha,2,33,Advanced Level,Private Sector,175595,88158,32829,Permanent,Yes,Yes,Yes,Yes
+884,Anuradhapura,7,53,Degree,Unemployed,86088,74537,85908,Semi-permanent,Yes,No,No,No
+885,Batticaloa,4,39,Primary,Government,212235,55645,30938,Semi-permanent,No,No,No,No
+886,Galle,1,30,Degree,Self-employed,92525,31283,64164,Permanent,No,No,Yes,Yes
+887,Kurunegala,3,35,Degree,Government,28780,67123,59530,Temporary,Yes,No,Yes,Yes
+888,Batticaloa,5,50,Primary,Private Sector,21589,38024,73199,Semi-permanent,No,Yes,No,Yes
+889,Gampaha,3,25,No Schooling,Government,180884,57630,65282,Semi-permanent,No,No,Yes,Yes
+890,Anuradhapura,3,38,Advanced Level,Private Sector,108664,38734,52801,Permanent,Yes,Yes,No,Yes
+891,Gampaha,6,56,Primary,Unemployed,192011,8515,14465,Temporary,No,Yes,Yes,Yes
+892,Kandy,1,23,Secondary,Unemployed,197565,74727,8326,Permanent,Yes,No,No,Yes
+893,Colombo,6,66,No Schooling,Private Sector,119188,54216,8659,Semi-permanent,Yes,No,No,No
+894,Galle,1,23,Secondary,Government,108326,79833,65289,Semi-permanent,No,No,No,Yes
+895,Jaffna,7,39,No Schooling,Unemployed,55953,66755,32594,Permanent,Yes,Yes,Yes,No
+896,Colombo,7,29,Advanced Level,Self-employed,80785,35856,9763,Permanent,Yes,Yes,Yes,No
+897,Jaffna,1,43,Advanced Level,Unemployed,34309,81870,93657,Temporary,Yes,Yes,Yes,Yes
+898,Anuradhapura,2,54,Degree,Self-employed,69195,32162,15828,Temporary,No,Yes,Yes,Yes
+899,Matara,4,45,Secondary,Government,40901,14008,52588,Semi-permanent,No,No,No,No
+900,Kurunegala,2,56,No Schooling,Self-employed,169648,15987,16221,Temporary,No,Yes,No,Yes
+901,Kalutara,4,57,Advanced Level,Self-employed,177580,70532,16211,Temporary,Yes,Yes,No,Yes
+902,Colombo,6,40,Primary,Self-employed,220783,11332,18569,Semi-permanent,Yes,No,Yes,No
+903,Galle,4,59,Advanced Level,Self-employed,40464,74323,101894,Semi-permanent,No,Yes,Yes,No
+904,Gampaha,6,58,Primary,Unemployed,206353,46990,42860,Semi-permanent,No,Yes,Yes,No
+905,Galle,7,40,No Schooling,Self-employed,31260,17873,76558,Semi-permanent,Yes,No,No,Yes
+906,Anuradhapura,3,29,Advanced Level,Unemployed,139997,44444,50337,Permanent,No,Yes,Yes,Yes
+907,Jaffna,7,57,Advanced Level,Self-employed,50440,43340,57311,Semi-permanent,No,Yes,Yes,No
+908,Gampaha,7,65,No Schooling,Private Sector,110082,13033,18515,Semi-permanent,No,Yes,No,Yes
+909,Kalutara,3,23,Advanced Level,Government,120583,81324,76695,Semi-permanent,No,Yes,No,No
+910,Kalutara,4,64,Primary,Self-employed,71683,23689,116527,Temporary,No,No,Yes,Yes
+911,Colombo,4,39,Advanced Level,Private Sector,139206,8066,111749,Semi-permanent,Yes,Yes,No,No
+912,Anuradhapura,6,36,Secondary,Self-employed,187502,53246,92227,Permanent,No,No,Yes,Yes
+913,Matara,2,26,Degree,Self-employed,148059,15533,29904,Permanent,No,Yes,No,No
+914,Anuradhapura,6,23,Primary,Self-employed,171177,88639,64935,Semi-permanent,Yes,No,No,Yes
+915,Jaffna,2,48,Secondary,Private Sector,93484,78152,48790,Permanent,Yes,No,No,Yes
+916,Galle,7,33,No Schooling,Government,159098,67658,73580,Temporary,Yes,No,Yes,No
+917,Kalutara,3,22,Primary,Private Sector,83309,46498,80148,Semi-permanent,Yes,Yes,Yes,Yes
+918,Galle,7,43,Degree,Government,60927,19772,10636,Permanent,No,Yes,Yes,Yes
+919,Galle,1,56,Degree,Self-employed,221486,57036,82129,Permanent,No,Yes,No,No
+920,Galle,4,35,No Schooling,Unemployed,203607,66531,119483,Semi-permanent,No,No,No,Yes
+921,Kalutara,2,23,No Schooling,Self-employed,57946,20940,7892,Permanent,No,Yes,No,Yes
+922,Batticaloa,6,43,Primary,Government,141503,24932,26672,Semi-permanent,Yes,Yes,No,Yes
+923,Kandy,3,53,Advanced Level,Private Sector,202633,64827,10812,Permanent,Yes,Yes,Yes,No
+924,Jaffna,2,49,No Schooling,Self-employed,156449,69431,101621,Temporary,No,Yes,Yes,No
+925,Batticaloa,6,37,Advanced Level,Private Sector,68592,32648,5654,Permanent,No,No,Yes,No
+926,Jaffna,4,38,Secondary,Private Sector,153419,40966,59633,Permanent,No,No,No,No
+927,Gampaha,7,50,Degree,Private Sector,48776,35777,22143,Semi-permanent,No,Yes,No,No
+928,Anuradhapura,4,38,Advanced Level,Self-employed,149855,40567,60934,Permanent,Yes,Yes,Yes,Yes
+929,Anuradhapura,5,68,Degree,Private Sector,70798,25174,72334,Semi-permanent,No,Yes,No,Yes
+930,Kurunegala,1,65,Advanced Level,Private Sector,150370,50598,108463,Temporary,Yes,No,Yes,No
+931,Anuradhapura,5,38,Secondary,Self-employed,85204,67199,34087,Semi-permanent,Yes,Yes,No,Yes
+932,Kalutara,3,41,No Schooling,Private Sector,101207,21798,16618,Semi-permanent,Yes,No,No,Yes
+933,Matara,2,43,Secondary,Self-employed,115356,73364,13446,Permanent,Yes,No,Yes,Yes
+934,Colombo,3,64,No Schooling,Government,201233,25558,92182,Temporary,No,Yes,Yes,Yes
+935,Kurunegala,7,31,No Schooling,Government,75652,69084,107127,Semi-permanent,No,Yes,No,No
+936,Colombo,6,49,Degree,Government,180556,52237,53867,Permanent,No,Yes,Yes,No
+937,Jaffna,4,57,Secondary,Private Sector,244686,73497,56028,Permanent,No,No,Yes,Yes
+938,Colombo,5,50,Advanced Level,Unemployed,144572,8178,65101,Semi-permanent,Yes,No,No,Yes
+939,Colombo,5,55,Secondary,Unemployed,35922,25118,32200,Permanent,Yes,Yes,No,No
+940,Kurunegala,7,38,Degree,Private Sector,180100,30616,100107,Semi-permanent,Yes,No,No,Yes
+941,Gampaha,5,67,No Schooling,Unemployed,166388,8798,93074,Semi-permanent,No,Yes,Yes,Yes
+942,Galle,7,64,Degree,Self-employed,91996,15601,111091,Semi-permanent,Yes,Yes,No,Yes
+943,Anuradhapura,3,55,Primary,Unemployed,163040,33363,66465,Temporary,Yes,No,No,No
+944,Anuradhapura,4,49,Primary,Private Sector,45266,10795,114500,Semi-permanent,Yes,No,No,No
+945,Kalutara,2,68,Advanced Level,Private Sector,241817,53264,91436,Permanent,Yes,No,No,Yes
+946,Kurunegala,6,52,Degree,Self-employed,170072,80833,92892,Temporary,No,No,No,Yes
+947,Kalutara,2,37,Advanced Level,Government,160083,11084,93559,Permanent,Yes,Yes,Yes,Yes
+948,Matara,3,68,Advanced Level,Private Sector,17866,84646,44148,Temporary,Yes,Yes,No,Yes
+949,Matara,6,47,Primary,Self-employed,127669,8731,87928,Temporary,No,Yes,No,Yes
+950,Kalutara,5,66,Advanced Level,Unemployed,20898,9129,25698,Temporary,No,No,Yes,Yes
+951,Kurunegala,1,30,Primary,Unemployed,33395,36022,47470,Temporary,No,Yes,No,No
+952,Kalutara,3,64,No Schooling,Self-employed,185091,9605,97071,Permanent,Yes,No,No,No
+953,Anuradhapura,3,52,Degree,Self-employed,249315,85506,56660,Semi-permanent,Yes,No,Yes,Yes
+954,Batticaloa,4,36,Advanced Level,Private Sector,19006,52130,58910,Permanent,Yes,No,No,No
+955,Kandy,2,25,Primary,Unemployed,180465,37265,40450,Semi-permanent,Yes,Yes,Yes,Yes
+956,Colombo,3,23,Secondary,Self-employed,25956,40330,61463,Permanent,No,No,No,Yes
+957,Kandy,3,39,Advanced Level,Unemployed,196114,76469,38757,Temporary,Yes,No,Yes,No
+958,Kurunegala,5,67,No Schooling,Self-employed,242271,23187,83012,Temporary,Yes,No,Yes,No
+959,Kandy,5,66,No Schooling,Unemployed,152150,33791,111750,Semi-permanent,No,No,No,Yes
+960,Matara,6,46,Secondary,Government,175703,78610,75247,Semi-permanent,No,No,Yes,Yes
+961,Jaffna,7,34,Primary,Private Sector,110676,47867,77015,Permanent,No,No,Yes,No
+962,Colombo,7,25,Advanced Level,Unemployed,136724,8893,36390,Semi-permanent,Yes,No,No,No
+963,Galle,1,66,Primary,Government,77901,27773,61116,Permanent,Yes,No,No,Yes
+964,Kurunegala,7,33,No Schooling,Unemployed,122227,12239,18161,Semi-permanent,Yes,No,Yes,Yes
+965,Colombo,4,30,Primary,Unemployed,215569,28863,37152,Semi-permanent,Yes,No,No,Yes
+966,Kandy,1,58,No Schooling,Government,240885,59415,85171,Semi-permanent,Yes,No,Yes,No
+967,Matara,6,28,Primary,Unemployed,132192,76968,111379,Temporary,No,No,Yes,Yes
+968,Gampaha,5,45,Secondary,Unemployed,187646,68430,100833,Temporary,No,Yes,No,No
+969,Batticaloa,7,35,Degree,Private Sector,46417,9515,25836,Permanent,Yes,Yes,No,Yes
+970,Galle,2,24,Secondary,Government,103020,22605,95367,Semi-permanent,Yes,No,Yes,No
+971,Batticaloa,5,29,Secondary,Government,98639,64240,71543,Permanent,Yes,No,No,No
+972,Colombo,4,69,Degree,Self-employed,211078,13586,60648,Semi-permanent,Yes,No,No,No
+973,Matara,5,22,Degree,Unemployed,109881,39186,31331,Temporary,Yes,Yes,Yes,No
+974,Matara,4,32,Advanced Level,Private Sector,185526,34928,110992,Temporary,No,Yes,Yes,Yes
+975,Kandy,4,62,Advanced Level,Unemployed,147659,28711,15763,Semi-permanent,No,Yes,Yes,No
+976,Anuradhapura,4,68,Secondary,Unemployed,136688,62962,74444,Semi-permanent,No,No,Yes,No
+977,Kandy,6,49,Secondary,Self-employed,130584,28039,98109,Temporary,Yes,No,Yes,No
+978,Anuradhapura,4,64,No Schooling,Unemployed,200782,44561,24187,Temporary,Yes,No,Yes,Yes
+979,Anuradhapura,4,25,No Schooling,Private Sector,101567,83483,16957,Permanent,No,No,No,Yes
+980,Galle,2,36,Advanced Level,Private Sector,237820,89395,9379,Temporary,No,Yes,Yes,Yes
+981,Kandy,1,64,Advanced Level,Self-employed,90886,9577,32959,Semi-permanent,Yes,No,No,Yes
+982,Gampaha,3,38,No Schooling,Unemployed,164888,36350,87018,Permanent,No,Yes,No,Yes
+983,Kalutara,1,61,No Schooling,Private Sector,231896,41798,32105,Semi-permanent,No,Yes,Yes,Yes
+984,Kalutara,4,54,Primary,Unemployed,44432,89417,5877,Permanent,Yes,No,No,No
+985,Kandy,2,65,Primary,Unemployed,194689,18785,53353,Semi-permanent,No,Yes,Yes,No
+986,Kandy,5,45,No Schooling,Unemployed,87373,80227,88788,Temporary,No,Yes,No,No
+987,Batticaloa,2,24,Primary,Self-employed,180289,69957,101870,Semi-permanent,No,Yes,Yes,Yes
+988,Galle,4,48,Degree,Unemployed,35884,73431,89585,Permanent,Yes,Yes,Yes,No
+989,Kandy,2,56,Advanced Level,Private Sector,20454,25297,88308,Semi-permanent,No,No,Yes,No
+990,Batticaloa,7,39,Advanced Level,Unemployed,89960,79894,56567,Permanent,No,No,Yes,Yes
+991,Anuradhapura,2,68,No Schooling,Private Sector,117421,71772,62913,Semi-permanent,No,Yes,No,No
+992,Matara,4,40,Secondary,Unemployed,58618,27581,7637,Temporary,Yes,No,No,Yes
+993,Matara,6,29,No Schooling,Private Sector,230020,63192,77778,Temporary,Yes,Yes,No,No
+994,Anuradhapura,7,24,Primary,Private Sector,208743,9462,47025,Semi-permanent,No,No,No,Yes
+995,Kurunegala,2,55,Secondary,Unemployed,62111,72173,111917,Semi-permanent,Yes,No,No,Yes
+996,Batticaloa,3,25,Primary,Unemployed,185685,23511,106187,Semi-permanent,No,No,Yes,Yes
+997,Batticaloa,3,45,Degree,Private Sector,231750,84106,104508,Permanent,Yes,No,Yes,No
+998,Anuradhapura,2,23,Primary,Government,135592,56665,87464,Semi-permanent,Yes,No,Yes,No
+999,Gampaha,6,58,Degree,Self-employed,249000,52414,33742,Semi-permanent,No,Yes,Yes,Yes
+1000,Jaffna,5,58,Degree,Government,74993,89010,16831,Permanent,No,No,Yes,Yes
